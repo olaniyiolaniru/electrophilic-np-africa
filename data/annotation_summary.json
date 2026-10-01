@@ -1,0 +1,16 @@
+{
+  "n": 11424,
+  "positive": 3414,
+  "matches": 5671,
+  "unique_candidate_atoms": 6222,
+  "michael": 2944,
+  "changed_records": 730,
+  "challenge": {
+    "tp": 22,
+    "tn": 19,
+    "fp": 2,
+    "fn": 0,
+    "overlap": 7
+  },
+  "rdkit": "2026.03.6"
+}

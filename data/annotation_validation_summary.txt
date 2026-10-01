@@ -1,0 +1,101 @@
+ANPDB electrophilic-motif annotations - EXTERNAL validation against independent
+PubChem structure records (PUG REST) and primary-literature anchors (PMIDs)
+==============================================================================
+Sample: N=40 electrophilic (is_electrophilic==1) molecule_ids, numpy seed=42,
+stratified round-robin across motif classes; 35 chosen from records carrying a
+pubchem_id, 5 deliberately without one for representativeness.
+Every PubChem CID + fetched InChIKey below was retrieved live and is re-verifiable.
+
+Verdict tally:
+  validated          35
+  partial            0
+  discrepancy        0
+  could-not-verify   5
+
+PRIMARY validation rate (validated / N):
+  35/40 = 87.5%   Wilson 95% CI [73.9%, 94.5%]
+SECONDARY rate among independently-resolvable records (excluding could-not-verify):
+  35/35 = 100.0%   Wilson 95% CI [90.1%, 100.0%]
+
+Skeleton (2D) vs full-InChIKey matches among fetched structures:
+  independent structures fetched: 35
+  2D-skeleton matches:           35
+  full-InChIKey (stereo) matches:35
+
+Per-motif-class breakdown (validated / sampled):
+  motif_class                sampled  validated  partial  discrep      cnv
+  acrylamide                       4          3        0        0        1
+  acrylate_ester                   4          3        0        0        1
+  acrylic_acid                     4          3        0        0        1
+  aldehyde                         4          3        0        0        1
+  alpha_halo_carbonyl              3          3        0        0        0
+  chalcone                         4          3        0        0        1
+  enone_cyclic                     3          3        0        0        0
+  enone_ketone_acyclic             3          3        0        0        0
+  epoxide                          3          3        0        0        0
+  isothiocyanate                   3          3        0        0        0
+  nitrile                          3          3        0        0        0
+  para_quinone                     2          2        0        0        0
+
+DISCREPANCIES (independent structure contradicts annotation):
+  none
+
+PARTIAL (identity confirmed; motif re-application weaker on PubChem form):
+  none
+
+COULD-NOT-VERIFY (no independent structure obtained):
+  - Mol_15834 | 10-methoxy pumiloside | motif acrylamide | pubchem_id='' | pmids='26969788' | no independent PubChem structure (name-unresolved)
+  - Mol_14640 | kaempferol-3-O-{[beta-D-xylopyranosyl(1→3)-alpha-L | motif acrylate_ester | pubchem_id='' | pmids='12130861' | no independent PubChem structure (name-unresolved)
+  - Mol_14502 | gadipyrone | motif acrylic_acid | pubchem_id='' | pmids='' | no independent PubChem structure (name-unresolved)
+  - Mol_10408 | penduliflorine B | motif aldehyde | pubchem_id='' | pmids='34029654' | no independent PubChem structure (name-unresolved)
+  - Mol_13383 | 4′,6,6′-trihydroxy-2′-(4-hydroxyphenyl)-7′-((E)-3- | motif chalcone | pubchem_id='' | pmids='33582268' | no independent PubChem structure (name-unresolved)
+
+LITERATURE SPOT-CHECKS (5 validated compounds; the cited PubMed record was
+fetched and read, and it reports the named compound whose established structure
+bears the annotated electrophilic scaffold; PubChem CID/InChIKey full-matched):
+
+1. 4-methylthiobutyl isothiocyanate (erucin)  [Mol_01157; motif isothiocyanate;
+   PubChem CID 78160; full InChIKey match]
+   Source: Hashem FA, Wahba HE. "Isothiocyanates in myrosinase treated herb
+   extract of Cleome chrysantha decne. and their antimicrobial activities."
+   Phytotherapy Research, 2000. PMID 10861975.
+   Confirmation: the paper explicitly lists "4-methylthiobutyl isothiocyanate"
+   among the isothiocyanates released on myrosinase treatment; the compound
+   carries the terminal -N=C=S isothiocyanate motif annotated by ANPDB.
+
+2. damnacanthal  [Mol_12631; motif aldehyde; PubChem CID 2948; full InChIKey match]
+   Source: Kuete V, Donfack AR, Mbaveng AT, Zeino M, Tane P, Efferth T.
+   "Cytotoxicity of anthraquinones from the roots of Pentas schimperi towards
+   multi-factorial drug-resistant cancer cells." Investigational New Drugs, 2015.
+   PMID 26115800. (The ANPDB record carries two PMIDs, 12094301 || 26115800;
+   the confirming isolation/identification paper is 26115800.)
+   Confirmation: the paper isolates and identifies "damnacanthal (1)", which is
+   3-hydroxy-1-methoxy-9,10-anthraquinone-2-carbaldehyde, bearing the aromatic
+   aldehyde (-CHO) motif annotated by ANPDB.
+
+3. excoecaria toxin  [Mol_13031; motif enone_cyclic; PubChem CID 5477859;
+   full InChIKey match]
+   Source: Borris RP, Cordell GA. "Studies of the Thymelaeaceae II. Antineoplastic
+   principles of Gnidia kraussiana." Journal of Natural Products, 1984.
+   PMID 6736968.
+   Confirmation: the paper reports "Excoecaria toxin (3)" as one of five daphnane
+   orthoester diterpenes; the daphnane core carries the cyclic alpha,beta-
+   unsaturated ketone (enone) motif annotated by ANPDB.
+
+4. beilschmiedic acid C  [Mol_11660; motif acrylic_acid; PubChem CID 42646924;
+   full InChIKey match]
+   Source: Chouna JR, Nkeng-Efouet PA, Lenta BN, Devkota KP, Neumann B,
+   Stammler HG, Kimbu SF, Sewald N. "Antibacterial endiandric acid derivatives
+   from Beilschmiedia anacardioides." Phytochemistry, 2009. PMID 19345383.
+   Confirmation: the paper isolates "beilschmiedic acids A, B and C" (endiandric-
+   acid-type metabolites); beilschmiedic acid C carries the alpha,beta-unsaturated
+   carboxylic acid motif annotated by ANPDB.
+
+5. dhurrin  [Mol_12424; motif nitrile; PubChem CID 161355; full InChIKey match]
+   Source: El Hawary SS, Abubaker M, Abd El-Kader EM, Mahrous EA. "Phytochemical
+   constituents and anti-tyrosinase activity of Macadamia integrifolia leaves
+   extract." Natural Product Research, 2022. PMID 33207965.
+   Confirmation: the paper reports "the cyanogenic glycoside dhurrin"; dhurrin is
+   (S)-4-hydroxymandelonitrile beta-D-glucoside, bearing the nitrile (C#N) motif
+   annotated by ANPDB.
+

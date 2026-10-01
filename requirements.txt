@@ -1,0 +1,7 @@
+# Analysis stage: the exact versions that generated every derived table in
+# this deposit. The quantum stage, which produced the addition energies with
+# xTB 6.7.1, is recorded separately in data/computational_environment.json.
+rdkit==2026.3.6
+pandas==3.0.5
+numpy==2.5.2
+scipy==1.18.1

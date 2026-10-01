@@ -1,0 +1,989 @@
+family	n_unique	n_electrophilic	pct_electrophilic
+Acanthaceae	55	19	34.54545454545455
+Acanthaceae || Agavaceae || Boraginaceae || Sapindaceae	1	0	0.0
+Acanthaceae || Alysseae || Asteraceae-Compositae || Bombacaceae || Cupressaceae || Euphorbiaceae || Polygonaceae || Sisymbrieae || Verbenaceae	1	0	0.0
+Acanthaceae || Amaryllidaceae || Bignoniaceae	1	0	0.0
+Acanthaceae || Anacardiaceae || Annonaceae || Apocynaceae || Asparagaceae || Asteraceae-Compositae || Bignoniaceae || Capparaceae || Cistaceae || Ericaceae || Euphorbiaceae || Guttiferae || Lamiaceae || Leguminosae/Fabaceae || Meliaceae || Mimosaceae || Moraceae || Ochnaceae || Primulaceae || Rubiaceae || Sapindaceae || Tiliaceae || Verbenaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae	2	0	0.0
+Acanthaceae || Asteraceae-Compositae || Azzolaceae || Polygonaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae || Bignoniaceae || Globulariaceae || Labiatae || Oleaceae || Rubiaceae || Verbenaceae	1	1	100.0
+Acanthaceae || Asteraceae-Compositae || Cupressaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae || Labiatae || Lamiaceae || Salicaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae || Labiatae || Plantaginaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae || Lamiaceae	1	0	0.0
+Acanthaceae || Asteraceae-Compositae || Solanaceae	1	1	100.0
+Acanthaceae || Asteraceae-Compositae || Zygophyllaceae	1	1	100.0
+Acanthaceae || Bignoniaceae || Globulariaceae	1	1	100.0
+Acanthaceae || Capparaceae	1	0	0.0
+Acanthaceae || Chenopodiaceae	1	0	0.0
+Acanthaceae || Dioscoraceae	1	0	0.0
+Acanthaceae || Euphorbiaceae || Labiatae	1	0	0.0
+Acanthaceae || Euphorbiaceae || Rubiaceae || Sterculiaceae	1	0	0.0
+Acanthaceae || Labiatae	1	0	0.0
+Acanthaceae || Leguminosae/Fabaceae	1	0	0.0
+Acanthaceae || Myrsinaceae || Sapotaceae	1	0	0.0
+Achariaceae	9	0	0.0
+Achariaceae || Euphorbiaceae || Meliaceae	1	0	0.0
+Actiinidae	1	0	0.0
+Adoxaceae	5	2	40.0
+Adoxaceae || Amaranthaceae || Anacardiaceae || Apiaceae || Apocynaceae || Asteraceae-Compositae || Bignoniaceae || Boraginaceae || Capparaceae || Cistaceae || Cruciferae-Brassicaceea || Cupressaceae || Euphorbiaceae || Fagaceae || Geraniaceae || Meliaceae || Moraceae || Moringaceae || Myrsinaceae || Rosaceae || Rutaceae || Salicaceae || Tribulaceae	1	0	0.0
+Adoxaceae || Amaryllidaceae || Anacardiaceae || Apocynaceae || Asteraceae-Compositae || Bignoniaceae || Boraginaceae || Brassicaceae || Capparaceae || Chenopodiaceae || Cistaceae || Euphorbiaceae || Malvaceae || Moraceae || Moringaceae || Myrsinaceae || Myrtaceae || Rosaceae	1	0	0.0
+Adoxaceae || Anacardiaceae || Apiaceae || Boraginaceae || Canellaceae || Cistaceae || Cupressaceae || Ephedraceae || Euphorbiaceae || Fagaceae || Hypericaceae || Moraceae || Myrsinaceae || Myrtaceae || Onagraceae || Rhamnaceae || Sapotaceae || Tamaricaceae || Umbelliferae	1	0	0.0
+Adoxaceae || Anacardiaceae || Asteraceae-Compositae || Ericaceae || Euphorbiaceae || Hypericaceae || Leguminosae/Fabaceae || Polygonaceae || Rhamnaceae || Rosaceae || Sapotaceae	1	0	0.0
+Adoxaceae || Apiaceae || Asteraceae-Compositae || Labiatae || Lamiaceae || Myrtaceae || Sapotaceae || Solanaceae || Verbenaceae	1	0	0.0
+Adoxaceae || Brassicaceae || Euphorbiaceae	1	0	0.0
+Adoxaceae || Rutaceae	1	0	0.0
+Agaricaceae	1	0	0.0
+Agaricaceae || Eurotiomycetidae || Lyophyllaceae || Russulaceae || Trichocomaceae	1	0	0.0
+Agaricaceae || Ganodermataceae || Lyophyllaceae || Russulaceae || Solanaceae || Trichocomaceae	1	0	0.0
+Agaricaceae || Lyophyllaceae || Russulaceae	1	0	0.0
+Agaricaceae || Russulaceae	1	0	0.0
+Agavaceae	35	1	2.857142857142857
+Agavaceae || Amaryllidaceae	1	0	0.0
+Agavaceae || Annonaceae || Apiaceae || Arecaceae || Asteraceae-Compositae || Cupressaceae || Dioscoraceae || Euphorbiaceae || Hydnoraceae || Hypericaceae || Labiatae || Myrsinaceae || Trichosphaeriaceae	1	0	0.0
+Agavaceae || Apiaceae || Apocynaceae || Arecaceae || Asphodelaceae || Asteraceae-Compositae || Bignoniaceae || Callyspongiidae || Campanulaceae || Cistaceae || Clusiaceae || Euphorbiaceae || Guttiferae || Hypericaceae || Plumbaginaceae || Poaceae || Rutaceae || Salicaceae || Sapotaceae || Verbenaceae	1	0	0.0
+Agavaceae || Arecaceae || Asteraceae-Compositae || Boraginaceae || Euphorbiaceae || Iridaceae || Labiatae || Leguminosae || Moraceae || Neuradaceae || Poaceae || Rosaceae || Thymelaeaceae	1	0	0.0
+Agavaceae || Cupressaceae || Labiatae	1	0	0.0
+Agavaceae || Mimosaceae	1	0	0.0
+Aizoaceae	4	3	75.0
+Aizoaceae || Boraginaceae	1	1	100.0
+Aizoaceae || Cruciferae-Brassicaceea	1	0	0.0
+Alcyoniidae	85	39	45.88235294117647
+Alcyoniidae || Asphodelaceae || Bombacaceae || Labiatae || Lamiaceae || Nephtheidae || Xeniidae	1	0	0.0
+Alcyoniidae || Labiatae	1	0	0.0
+Alcyoniidae || Xeniidae	6	0	0.0
+Alysseae	2	0	0.0
+Alysseae || Resedaceae	1	0	0.0
+Alysseae || Umbelliferae	1	0	0.0
+Amaranthaceae	16	7	43.75
+Amaranthaceae || Anacardiaceae || Annonaceae || Apiaceae || Asphodelaceae || Asteraceae-Compositae || Caryophyllaceae || Cistaceae || Cruciferae-Brassicaceea || Ephedraceae || Hydnoraceae || Juglandaceae || Onagraceae || Proteaceae || Rosaceae	1	0	0.0
+Amaranthaceae || Anacardiaceae || Apiaceae || Arecaceae || Caryophyllaceae || Cistaceae || Combretaceae || Cupressaceae || Ericaceae || Euphorbiaceae || Fabaceae || Leguminosae || Lythraceae || Moringaceae || Myrsinaceae || Myrtaceae || Onagraceae || Resedaceae || Rosaceae || Tamaricaceae	1	0	0.0
+Amaranthaceae || Anacardiaceae || Apiaceae || Asteraceae-Compositae || Hypericaceae || Labiatae	1	1	100.0
+Amaranthaceae || Anacardiaceae || Apiaceae || Chenopodiaceae || Moraceae || Neuradaceae	1	0	0.0
+Amaranthaceae || Annonaceae || Loranthaceae || Moringaceae || Zygophyllaceae	1	0	0.0
+Amaranthaceae || Apiaceae	1	0	0.0
+Amaranthaceae || Apiaceae || Apidae || Apocynaceae || Asphodelaceae || Caryophyllaceae || Cistaceae || Ephedraceae || Hymenochaetaceae || Leguminosae || Leguminosae/Fabaceae || Onagraceae || Plumbaginaceae || Rosaceae || Rutaceae	1	1	100.0
+Amaranthaceae || Apiaceae || Apidae || Asteraceae-Compositae || Hydrocharitaceae || Lamiaceae || Rosaceae || Rutaceae	1	1	100.0
+Amaranthaceae || Apiaceae || Apidae || Cruciferae-Brassicaceea	1	1	100.0
+Amaranthaceae || Apiaceae || Apidae || Cruciferae-Brassicaceea || Euphorbiaceae || Labiatae	1	1	100.0
+Amaranthaceae || Apiaceae || Asparagaceae || Asphodelaceae || Bignoniaceae || Cistaceae || Cruciferae-Brassicaceea || Euphorbiaceae || Trichocomaceae || Zygophyllaceae	1	0	0.0
+Amaranthaceae || Apiaceae || Euphorbiaceae || Juglandaceae || Onagraceae	1	0	0.0
+Amaranthaceae || Apidae || Leguminosae || Leguminosae/Fabaceae || Moraceae	1	0	0.0
+Amaranthaceae || Apocynaceae || Asteraceae-Compositae	1	0	0.0
+Amaranthaceae || Asparagaceae || Bignoniaceae || Caryophyllaceae || Cistaceae || Cruciferae-Brassicaceea || Ephedraceae || Labiatae || Resedaceae	1	0	0.0
+Amaranthaceae || Chenopodiaceae	2	2	100.0
+Amaranthaceae || Chenopodiaceae || Solanaceae	1	1	100.0
+Amaranthaceae || Leguminosae/Fabaceae	3	2	66.66666666666667
+Amaranthaceae || Plumbaginaceae	1	1	100.0
+Amaranthaceae || Rhamnaceae || Rosaceae	1	0	0.0
+Amaryllidaceae	104	6	5.769230769230769
+Amaryllidaceae || Anacardiaceae || Apiaceae || Apocynaceae || Arabideae || Asteraceae-Compositae || Bignoniaceae || Boraginaceae || Canellaceae || Cistaceae || Euphorbiaceae || Meliaceae || Moraceae || Oleaceae || Resedaceae || Thymelaeaceae || Tribulaceae || Zygophyllaceae	1	0	0.0
+Amaryllidaceae || Anacardiaceae || Apiaceae || Arecaceae || Asteraceae-Compositae || Bombacaceae || Boraginaceae || Brassicaceae || Canellaceae || Capparaceae || Caryophyllaceae || Chenopodiaceae || Cruciferae-Brassicaceea || Ericaceae || Euphorbiaceae || Fagaceae || Hypericaceae || Juglandaceae || Myrsinaceae || Myrtaceae || Onagraceae || Poaceae || Rhamnaceae || Rosaceae || Tamaricaceae	1	0	0.0
+Amaryllidaceae || Annonaceae || Apiaceae || Arecaceae || Asteraceae-Compositae || Burseraceae || Cruciferae-Brassicaceea || Cupressaceae || Dioscoraceae || Euphorbiaceae || Hydnoraceae || Hypericaceae || Labiatae || Myrsinaceae || Tamaricaceae || Trichosphaeriaceae || Ulvaceae	1	0	0.0
+Amaryllidaceae || Annonaceae || Arecaceae || Asteraceae-Compositae || Cupressaceae || Dioscoraceae || Euphorbiaceae || Fagaceae || Guttiferae || Hypericaceae || Labiatae || Leguminosae/Fabaceae || Trichosphaeriaceae	1	0	0.0
+Amaryllidaceae || Apiaceae || Apidae || Arecaceae || Asteraceae-Compositae || Boraginaceae || Euphorbiaceae || Iridaceae || Labiatae || Leguminosae || Leguminosae/Fabaceae || Plumbaginaceae	1	0	0.0
+Amaryllidaceae || Apiaceae || Arecaceae || Asteraceae-Compositae || Brassicaceae || Caryophyllaceae || Cruciferae-Brassicaceea || Cupressaceae || Euphorbiaceae || Labiatae || Leguminosae || Plumbaginaceae || Poaceae	1	0	0.0
+Amaryllidaceae || Asteraceae-Compositae	2	0	0.0
+Amaryllidaceae || Asteraceae-Compositae || Labiatae || Myrtaceae	1	0	0.0
+Amaryllidaceae || Asteraceae-Compositae || Leguminosae/Fabaceae || Ochnaceae	1	1	100.0
+Amaryllidaceae || Asteraceae-Compositae || Leguminosae/Fabaceae || Salicaceae || Solanaceae	1	0	0.0
+Amaryllidaceae || Leguminosae/Fabaceae	1	0	0.0
+Amaryllidaceae || Rubiaceae	1	0	0.0
+Amphisphaeriaceae	7	5	71.42857142857143
+Amphisphaeriaceae || Anchinoidae || Cruciferae-Brassicaceea || Trichocomaceae	1	1	100.0
+Amphisphaeriaceae || Sporocadaceae	2	0	0.0
+Anacardiaceae	80	21	26.25
+Anacardiaceae || Annonaceae || Asphodelaceae || Asteraceae-Compositae || Azzolaceae || Burseraceae || Combretaceae || Euphorbiaceae || Labiatae || Lamiaceae || Meliaceae || Myrsinaceae || Rubiaceae	1	0	0.0
+Anacardiaceae || Annonaceae || Cupressaceae || Ericaceae || Euphorbiaceae || Fabaceae || Leguminosae/Fabaceae || Plumbaginaceae || Rosaceae || Salicaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Apidae || Arecaceae || Asteraceae-Compositae || Brassicaceae || Canellaceae || Caryophyllaceae || Chenopodiaceae || Clusiaceae || Cruciferae-Brassicaceea || Euphorbiaceae || Leguminosae || Leguminosae/Fabaceae || Moringaceae || Myrsinaceae || Myrtaceae || Onagraceae || Plumbaginaceae || Poaceae || Rosaceae || Sapindaceae || Tamaricaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Bombacaceae || Capparaceae || Ephedraceae || Euphorbiaceae || Poaceae || Thymelaeaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Burseraceae || Cruciferae-Brassicaceea || Lamiaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Euphorbiaceae || Labiatae || Lamiaceae || Myrtaceae || Poaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Juglandaceae || Labiatae || Poaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Lamiaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Asteraceae-Compositae || Rhamnaceae || Sapindaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Burseraceae || Capparaceae || Cupressaceae || Cyperaceae || Juglandaceae || Labiatae || Verbenaceae	1	0	0.0
+Anacardiaceae || Apiaceae || Onagraceae	1	0	0.0
+Anacardiaceae || Apiaceae || Potamogetonaceae	1	0	0.0
+Anacardiaceae || Apocynaceae	1	0	0.0
+Anacardiaceae || Apocynaceae || Asphodelaceae || Asteraceae-Compositae || Bignoniaceae || Burseraceae || Clusiaceae || Clusiaceae-Guttiferae || Dilleniaceae || Euphorbiaceae || Labiatae || Leguminosae/Fabaceae || Moraceae || Rutaceae	1	0	0.0
+Anacardiaceae || Araliaceae || Asteraceae-Compositae || Rubiaceae	1	0	0.0
+Anacardiaceae || Arecaceae || Combretaceae || Euphorbiaceae || Fabaceae || Leguminosae || Leguminosae/Fabaceae || Lythraceae || Myrtaceae || Onagraceae || Sapindaceae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae || Lamiaceae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Juglandaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae || Cupressaceae || Juglandaceae || Labiatae || Lamiaceae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae || Euphorbiaceae || Geraniaceae || Moraceae || Myrtaceae || Polygonaceae || Tamaricaceae || Vitaceae	1	0	0.0
+Anacardiaceae || Asteraceae-Compositae || Labiatae || Myristicaceae	1	0	0.0
+Anacardiaceae || Avicenniaceae || Lamiaceae	1	0	0.0
+Anacardiaceae || Burseraceae || Combretaceae || Dipterocarpaceae || Euphorbiaceae || Irvingiaceae || Myrtaceae	1	0	0.0
+Anacardiaceae || Burseraceae || Cupressaceae || Cyperaceae || Juglandaceae || Labiatae || Piperaceae || Poaceae	1	0	0.0
+Anacardiaceae || Chenopodiaceae || Combretaceae || Nymphaeaceae || Sapindaceae	1	0	0.0
+Anacardiaceae || Chenopodiaceae || Euphorbiaceae || Myrtaceae	1	0	0.0
+Anacardiaceae || Chenopodiaceae || Rubiaceae	1	0	0.0
+Anacardiaceae || Cistaceae || Cupressaceae || Euphorbiaceae || Myrtaceae || Nymphaeaceae || Onagraceae || Sapotaceae	1	0	0.0
+Anacardiaceae || Cruciferae-Brassicaceea || Labiatae	1	0	0.0
+Anacardiaceae || Cupressaceae || Piperaceae	1	0	0.0
+Anacardiaceae || Ebenaceae	3	0	0.0
+Anacardiaceae || Ebenaceae || Leguminosae/Fabaceae || Rubiaceae || Sapotaceae	1	0	0.0
+Anacardiaceae || Euphorbiaceae || Leguminosae/Fabaceae	1	0	0.0
+Anacardiaceae || Hymenochaetaceae	1	0	0.0
+Anacardiaceae || Labiatae	1	0	0.0
+Anacardiaceae || Lamiaceae || Leguminosae/Fabaceae || Rubiaceae	1	0	0.0
+Anacardiaceae || Meliaceae	1	0	0.0
+Anacardiaceae || Meliaceae || Potamogetonaceae || Tamaricaceae	1	0	0.0
+Anacardiaceae || Myrtaceae	1	0	0.0
+Anacardiaceae || Ochnaceae	4	0	0.0
+Anacardiaceae || Sapotaceae	2	0	0.0
+Anchinoidae	2	0	0.0
+Ancistrocladaceae	139	3	2.158273381294964
+Ancistrocladaceae || Asphodelaceae	1	1	100.0
+Ancistrocladaceae || Dioncophyllaceae	9	0	0.0
+Annonaceae	242	76	31.40495867768595
+Annonaceae || Apiaceae || Arecaceae || Boraginaceae || Canellaceae || Chenopodiaceae || Euphorbiaceae || Leguminosae || Meliaceae || Moraceae || Punicaceae || Tribulaceae	1	0	0.0
+Annonaceae || Apidae || Asteraceae-Compositae || Leguminosae/Fabaceae	1	0	0.0
+Annonaceae || Asteraceae-Compositae || Burseraceae || Lamiaceae	1	0	0.0
+Annonaceae || Asteraceae-Compositae || Combretaceae || Euphorbiaceae || Hydnoraceae || Labiatae || Lamiaceae || Malvaceae || Meliaceae || Myrsinaceae || Rubiaceae	1	0	0.0
+Annonaceae || Asteraceae-Compositae || Cyperaceae	1	1	100.0
+Annonaceae || Asteraceae-Compositae || Cyperaceae || Juglandaceae || Labiatae || Lamiaceae || Liliaceae || Malvaceae || Zingiberaceae	1	1	100.0
+Annonaceae || Asteraceae-Compositae || Euphorbiaceae || Labiatae || Lamiaceae || Myrtaceae	1	0	0.0
+Annonaceae || Asteraceae-Compositae || Fabaceae || Labiatae	1	0	0.0
+Annonaceae || Asteraceae-Compositae || Haematococcaceae || Lamiaceae || Rutaceae	1	0	0.0
+Annonaceae || Burseraceae || Cupressaceae	1	0	0.0
+Annonaceae || Burseraceae || Piperaceae	1	0	0.0
+Annonaceae || Euphorbiaceae	4	3	75.0
+Annonaceae || Juglandaceae	1	0	0.0
+Annonaceae || Leguminosae/Fabaceae	1	0	0.0
+Annonaceae || Magnoliaceae	1	0	0.0
+Annonaceae || Menispermaceae	1	0	0.0
+Annonaceae || Myrtaceae || Sapotaceae	1	0	0.0
+Annonaceae || Pleosporaceae || Pleosporineae	1	0	0.0
+Annonaceae || Pleosporineae || Sporormiaceae	1	0	0.0
+Annonaceae || Polygonaceae	2	1	50.0
+Annonaceae || Polygonaceae || Ptaeroxylaceae	1	0	0.0
+Annonaceae || Rutaceae	2	0	0.0
+Annonaceae || Sapindaceae	1	0	0.0
+Annonaceae || Sporormiaceae	5	1	20.0
+Apiaceae	286	95	33.21678321678322
+Apiaceae || Apidae || Asteraceae-Compositae || Caesalpinioideae || Euphorbiaceae	1	0	0.0
+Apiaceae || Apocynaceae || Arecaceae || Asteraceae-Compositae || Canellaceae || Cupressaceae || Dioscoraceae || Euphorbiaceae || Hypericaceae || Labiatae || Myrsinaceae	1	0	0.0
+Apiaceae || Apocynaceae || Asteraceae-Compositae || Bombacaceae || Burseraceae || Capparaceae || Moraceae || Rubiaceae	1	0	0.0
+Apiaceae || Apocynaceae || Asteraceae-Compositae || Brassicaceae || Cactaceae || Capparaceae || Leguminosae/Fabaceae || Myrsinaceae || Myrtaceae || Nitrariaceae || Resedaceae || Tribulaceae	1	0	0.0
+Apiaceae || Arecaceae || Asteraceae-Compositae || Bignoniaceae || Bombacaceae || Campanulaceae || Capparaceae || Moraceae || Plumbaginaceae || Rutaceae || Thymelaeaceae	1	0	0.0
+Apiaceae || Asparagaceae || Malvaceae	1	1	100.0
+Apiaceae || Asteraceae-Compositae	4	2	50.0
+Apiaceae || Asteraceae-Compositae || Bignoniaceae || Combretaceae || Labiatae || Malvaceae || Moraceae || Myristicaceae || Myrsinaceae || Plumbaginaceae || Ptaeroxylaceae || Resedaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Brassicaceae || Chenopodiaceae || Euphorbiaceae || Meliaceae || Moraceae || Rubiaceae || Sapindaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Brassicaceae || Menispermaceae || Moraceae || Myrtaceae || Nitrariaceae || Resedaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Capparaceae || Cupressaceae || Cyperaceae || Euphorbiaceae || Labiatae || Lamiaceae || Poaceae || Verbenaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Capparaceae || Cupressaceae || Cyperaceae || Labiatae || Lamiaceae || Verbenaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Capparaceae || Cupressaceae || Juglandaceae || Labiatae || Malvaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae || Lamiaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Cyperaceae || Juglandaceae || Labiatae || Lamiaceae || Poaceae || Verbenaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Euphorbiaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Euphorbiaceae || Labiatae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Juglandaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Burseraceae || Cupressaceae || Labiatae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cactaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Canellaceae || Juglandaceae || Myrsinaceae || Polygonaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Capparaceae || Tribulaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Chenopodiaceae || Geraniaceae || Iridaceae || Labiatae || Leguminosae || Moraceae || Myrtaceae || Plumbaginaceae || Poaceae || Verbenaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Clusiaceae-Guttiferae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cruciferae-Brassicaceea || Cupressaceae || Euphorbiaceae || Juglandaceae || Labiatae || Poaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cupressaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cupressaceae || Dioscoraceae || Hypericaceae || Labiatae || Myrsinaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cupressaceae || Labiatae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Cupressaceae || Labiatae || Lamiaceae || Verbenaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Ochnaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Rhamnaceae || Rutaceae	1	0	0.0
+Apiaceae || Asteraceae-Compositae || Rutaceae	1	0	0.0
+Apiaceae || Boraginaceae || Rutaceae	1	0	0.0
+Apiaceae || Brassicaceae || Cruciferae-Brassicaceea	1	0	0.0
+Apiaceae || Brassicaceae || Lepideae	1	0	0.0
+Apiaceae || Brassicaceae || Moraceae || Rutaceae	1	0	0.0
+Apiaceae || Brassicaceae || Rutaceae	3	0	0.0
+Apiaceae || Brassicaceae || Solanaceae || Tribulaceae	1	0	0.0
+Apiaceae || Burseraceae || Labiatae	1	0	0.0
+Apiaceae || Capparaceae || Cistaceae	1	0	0.0
+Apiaceae || Caryophyllaceae || Leguminosae/Fabaceae || Linaceae	1	1	100.0
+Apiaceae || Chenopodiaceae || Leguminosae/Fabaceae || Sapotaceae	1	0	0.0
+Apiaceae || Clusiaceae-Guttiferae	1	0	0.0
+Apiaceae || Cupressaceae	1	0	0.0
+Apiaceae || Cupressaceae || Cyperaceae || Labiatae || Lamiaceae	1	0	0.0
+Apiaceae || Euphorbiaceae	1	0	0.0
+Apiaceae || Euphorbiaceae || Tamaricaceae	1	0	0.0
+Apiaceae || Hydrocharitaceae || Labiatae	1	1	100.0
+Apiaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Apiaceae || Lamiaceae	2	1	50.0
+Apiaceae || Leguminosae/Fabaceae	1	0	0.0
+Apiaceae || Moraceae	1	0	0.0
+Apiaceae || Rubiaceae	1	0	0.0
+Apiaceae || Rutaceae	5	0	0.0
+Apiaceae || Tamaricaceae	1	0	0.0
+Apiaceae || Umbelliferae	2	2	100.0
+Apiaceae || Zygophyllaceae	1	0	0.0
+Apidae	44	12	27.272727272727273
+Apidae || Arecaceae	1	1	100.0
+Apidae || Asteraceae-Compositae	1	0	0.0
+Apidae || Asteraceae-Compositae || Labiatae	1	0	0.0
+Apidae || Asteraceae-Compositae || Labiatae || Rutaceae	1	0	0.0
+Apidae || Asteraceae-Compositae || Pontideraceae	1	0	0.0
+Apidae || Burseraceae || Dipterocarpaceae || Leguminosae/Fabaceae	1	0	0.0
+Apidae || Capparaceae || Sapindaceae	1	0	0.0
+Apidae || Chenopodiaceae	1	0	0.0
+Apidae || Cupressaceae	1	0	0.0
+Apidae || Cyperaceae	1	0	0.0
+Apidae || Fagaceae || Sterculiaceae	1	0	0.0
+Apidae || Polygonaceae	1	1	100.0
+Apidae || Rutaceae	1	0	0.0
+Aplysiidae	2	0	0.0
+Aplysinellidae	15	4	26.666666666666668
+Apocynaceae	324	121	37.34567901234568
+Apocynaceae || Araliaceae || Asteraceae-Compositae	1	0	0.0
+Apocynaceae || Arecaceae	1	0	0.0
+Apocynaceae || Asclepiadaceae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae || Bignoniaceae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae || Boraginaceae || Burseraceae || Labiatae || Leguminosae/Fabaceae || Moraceae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae || Burseraceae || Moraceae || Sapotaceae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae || Ephedraceae || Rutaceae || Tamaricaceae	1	0	0.0
+Apocynaceae || Asteraceae-Compositae || Nitrariaceae || Rubiaceae	1	0	0.0
+Apocynaceae || Avicenniaceae	1	0	0.0
+Apocynaceae || Caesalpinioideae || Guttiferae || Leguminosae/Fabaceae	1	1	100.0
+Apocynaceae || Combretaceae || Melastomaceae	1	0	0.0
+Apocynaceae || Euphorbiaceae || Labiatae || Leguminosae/Fabaceae || Rubiaceae	1	0	0.0
+Apocynaceae || Ochnaceae	1	0	0.0
+Apocynaceae || Rutaceae	1	0	0.0
+Arabideae	2	0	0.0
+Arabideae || Asteraceae-Compositae || Brassicaceae || Chenopodiaceae || Lepideae || Tribulaceae	1	0	0.0
+Arabideae || Resedaceae	1	0	0.0
+Arabideae || Sapindaceae	1	0	0.0
+Araceae	2	0	0.0
+Araliaceae	105	2	1.9047619047619047
+Araliaceae || Arecaceae	1	0	0.0
+Araliaceae || Bignoniaceae || Euphorbiaceae || Leguminosae/Fabaceae || Malvaceae || Moraceae || Myrtaceae || Sapotaceae || Verbenaceae	1	0	0.0
+Araucariaceae	9	5	55.55555555555556
+Araucariaceae || Leguminosae/Fabaceae || Pinaceae	1	0	0.0
+Archaeidae	2	0	0.0
+Arecaceae	69	5	7.246376811594203
+Arecaceae || Asparagaceae || Boraginaceae || Trichosphaeriaceae	1	0	0.0
+Arecaceae || Asteraceae-Compositae || Bombacaceae || Boraginaceae || Euphorbiaceae || Iridaceae || Labiatae || Leguminosae || Moraceae || Poaceae || Rutaceae || Thymelaeaceae	1	0	0.0
+Arecaceae || Asteraceae-Compositae || Cupressaceae || Dioscoraceae || Euphorbiaceae || Hydnoraceae || Hypericaceae || Labiatae || Myrsinaceae || Trichosphaeriaceae	1	0	0.0
+Arecaceae || Asteraceae-Compositae || Euphorbiaceae	1	0	0.0
+Arecaceae || Asteraceae-Compositae || Poaceae	1	0	0.0
+Arecaceae || Asteraceae-Compositae || Zygophyllaceae	1	0	0.0
+Arecaceae || Azzolaceae	1	0	0.0
+Arecaceae || Bovidae || Hypericaceae || Labiatae	2	0	0.0
+Arecaceae || Brassicaceae || Euphorbiaceae || Matthioleae || Resedaceae	1	0	0.0
+Arecaceae || Burseraceae || Cistaceae || Euphorbiaceae || Leguminosae/Fabaceae || Sapindaceae	1	0	0.0
+Arecaceae || Cistaceae || Clusiaceae || Cupressaceae || Ericaceae || Hypericaceae || Leguminosae/Fabaceae || Moraceae || Rosaceae || Sapotaceae || Ximeniaceae	1	0	0.0
+Arecaceae || Dioscoraceae || Euphorbiaceae || Hypericaceae || Labiatae || Myrsinaceae	1	0	0.0
+Arecaceae || Leguminosae/Fabaceae	1	1	100.0
+Arecaceae || Pedaliaceae	1	0	0.0
+Arecaceae || Rosaceae	1	0	0.0
+Arecaceae || Rutaceae	1	0	0.0
+Arecaceae || Tamaricaceae	1	0	0.0
+Aristolochiaceae	3	0	0.0
+Ascidiaceae	2	0	0.0
+Asclepiadaceae	4	4	100.0
+Asparagaceae	37	9	24.324324324324323
+Asparagaceae || Labiatae	1	0	0.0
+Asparagaceae || Melianthaceae	1	1	100.0
+Asphodelaceae	163	75	46.012269938650306
+Asphodelaceae || Asteraceae-Compositae || Bombacaceae || Campanulaceae || Labiatae || Lamiaceae	1	0	0.0
+Asphodelaceae || Asteraceae-Compositae || Euphorbiaceae || Poaceae || Salicaceae || Thymelaeaceae	1	0	0.0
+Asphodelaceae || Commelinaceae || Euphorbiaceae || Leguminosae/Fabaceae || Liliaceae || Polygonaceae	1	1	100.0
+Asphodelaceae || Fabaceae	1	0	0.0
+Asphodelaceae || Fabaceae || Leguminosae/Fabaceae || Liliaceae || Polygonaceae || Rhamnaceae	1	1	100.0
+Asphodelaceae || Fagaceae	1	1	100.0
+Asphodelaceae || Iridaceae	1	1	100.0
+Asphodelaceae || Leguminosae/Fabaceae || Liliaceae	2	2	100.0
+Asphodelaceae || Liliaceae	13	7	53.84615384615385
+Asphodelaceae || Liliaceae || Polygonaceae	1	1	100.0
+Asphodelaceae || Pleosporaceae || Pleosporineae	1	0	0.0
+Asteraceae-Compositae	1450	697	48.06896551724138
+Asteraceae-Compositae || Bignoniaceae || Dipsacaceae || Labiatae || Lamiaceae || Myrtaceae	1	0	0.0
+Asteraceae-Compositae || Bombacaceae	1	0	0.0
+Asteraceae-Compositae || Boraginaceae	5	1	20.0
+Asteraceae-Compositae || Boraginaceae || Capparaceae || Ebenaceae || Guttiferae || Leguminosae/Fabaceae || Myrsinaceae || Rutaceae || Sapotaceae || Trichocomaceae	1	0	0.0
+Asteraceae-Compositae || Bovidae	1	0	0.0
+Asteraceae-Compositae || Bovidae || Capparaceae	1	0	0.0
+Asteraceae-Compositae || Bovidae || Capparaceae || Cupressaceae || Cyperaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Bovidae || Labiatae	1	1	100.0
+Asteraceae-Compositae || Brassicaceae || Burseraceae	1	0	0.0
+Asteraceae-Compositae || Brassicaceae || Cistaceae || Euphorbiaceae || Tribulaceae	1	0	0.0
+Asteraceae-Compositae || Burseraceae	6	0	0.0
+Asteraceae-Compositae || Burseraceae || Cupressaceae || Juglandaceae || Labiatae	1	0	0.0
+Asteraceae-Compositae || Burseraceae || Cupressaceae || Juglandaceae || Labiatae || Lamiaceae	3	0	0.0
+Asteraceae-Compositae || Burseraceae || Cupressaceae || Juglandaceae || Labiatae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Burseraceae || Cyperaceae	1	0	0.0
+Asteraceae-Compositae || Burseraceae || Cyperaceae || Labiatae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Burseraceae || Juglandaceae	1	0	0.0
+Asteraceae-Compositae || Canellaceae || Chenopodiaceae || Ephedraceae	1	0	0.0
+Asteraceae-Compositae || Cannabaceae || Clusiaceae-Guttiferae || Euphorbiaceae || Labiatae || Rutaceae || Sapindaceae	1	0	0.0
+Asteraceae-Compositae || Capparaceae	3	0	0.0
+Asteraceae-Compositae || Capparaceae || Cupressaceae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Capparaceae || Cupressaceae || Juglandaceae || Labiatae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Capparaceae || Juglandaceae || Leguminosae/Fabaceae || Sapindaceae || Sisymbrieae	1	0	0.0
+Asteraceae-Compositae || Capparaceae || Labiatae	5	0	0.0
+Asteraceae-Compositae || Capparaceae || Labiatae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Capparaceae || Sapindaceae	1	0	0.0
+Asteraceae-Compositae || Caryophyllaceae || Commelinaceae || Euphorbiaceae || Iridaceae || Leguminosae || Moraceae || Poaceae || Thymelaeaceae	1	0	0.0
+Asteraceae-Compositae || Caryophyllaceae || Nitrariaceae	1	0	0.0
+Asteraceae-Compositae || Chaetomiaceae || Moraceae || Trichosphaeriaceae	1	0	0.0
+Asteraceae-Compositae || Chenopodiaceae	1	0	0.0
+Asteraceae-Compositae || Chenopodiaceae || Cruciferae-Brassicaceea || Euphorbiaceae || Hydnoraceae	1	1	100.0
+Asteraceae-Compositae || Chenopodiaceae || Cupressaceae || Cyperaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Chenopodiaceae || Labiatae	3	0	0.0
+Asteraceae-Compositae || Chenopodiaceae || Moraceae	1	0	0.0
+Asteraceae-Compositae || Chenopodiaceae || Myrtaceae || Polygonaceae	1	0	0.0
+Asteraceae-Compositae || Chenopodiaceae || Rutaceae	1	0	0.0
+Asteraceae-Compositae || Cistaceae	1	0	0.0
+Asteraceae-Compositae || Cistaceae || Frankeniaceae || Rhamnaceae || Tamaricaceae	1	0	0.0
+Asteraceae-Compositae || Combretaceae	2	0	0.0
+Asteraceae-Compositae || Combretaceae || Labiatae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Convolvulaceae	2	2	100.0
+Asteraceae-Compositae || Convolvulaceae || Cyperaceae || Lamiaceae || Myrtaceae || Solanaceae	1	0	0.0
+Asteraceae-Compositae || Cordycipitaceae || Hypocreaceae	1	0	0.0
+Asteraceae-Compositae || Cruciferae-Brassicaceea	3	0	0.0
+Asteraceae-Compositae || Cruciferae-Brassicaceea || Labiatae || Leguminosae	1	0	0.0
+Asteraceae-Compositae || Cruciferae-Brassicaceea || Moraceae || Neuradaceae || Pinaceae || Rosaceae	1	0	0.0
+Asteraceae-Compositae || Cruciferae-Brassicaceea || Rhizophoraceae || Tamaricaceae	1	1	100.0
+Asteraceae-Compositae || Cupressaceae	6	0	0.0
+Asteraceae-Compositae || Cupressaceae || Cyperaceae || Poaceae	1	1	100.0
+Asteraceae-Compositae || Cupressaceae || Euphorbiaceae || Fagaceae || Hypericaceae	1	0	0.0
+Asteraceae-Compositae || Cupressaceae || Juglandaceae || Labiatae	2	0	0.0
+Asteraceae-Compositae || Cupressaceae || Labiatae	2	0	0.0
+Asteraceae-Compositae || Cupressaceae || Labiatae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Cupressaceae || Labiatae || Polygonaceae	1	0	0.0
+Asteraceae-Compositae || Cupressaceae || Lamiaceae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Cupressaceae || Polygonaceae	1	0	0.0
+Asteraceae-Compositae || Cyperaceae	1	0	0.0
+Asteraceae-Compositae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae	1	0	0.0
+Asteraceae-Compositae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae || Lamiaceae || Verbenaceae	1	0	0.0
+Asteraceae-Compositae || Cyperaceae || Labiatae	3	0	0.0
+Asteraceae-Compositae || Cyperaceae || Labiatae || Lamiaceae	1	1	100.0
+Asteraceae-Compositae || Cyperaceae || Lamiaceae	1	0	0.0
+Asteraceae-Compositae || Dioscoraceae || Labiatae	1	0	0.0
+Asteraceae-Compositae || Dipterocarpaceae || Euphorbiaceae	1	0	0.0
+Asteraceae-Compositae || Dipterocarpaceae || Sapindaceae || Tamaricaceae	1	0	0.0
+Asteraceae-Compositae || Euphorbiaceae	3	1	33.333333333333336
+Asteraceae-Compositae || Euphorbiaceae || Iridaceae || Leguminosae || Moraceae || Onagraceae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Euphorbiaceae || Labiatae || Leguminosae	1	0	0.0
+Asteraceae-Compositae || Fabaceae || Pontideraceae	1	0	0.0
+Asteraceae-Compositae || Fagaceae || Guttiferae	1	0	0.0
+Asteraceae-Compositae || Globulariaceae || Labiatae	1	0	0.0
+Asteraceae-Compositae || Iridaceae	1	0	0.0
+Asteraceae-Compositae || Juglandaceae	2	0	0.0
+Asteraceae-Compositae || Juglandaceae || Labiatae	3	0	0.0
+Asteraceae-Compositae || Labiatae	22	2	9.090909090909092
+Asteraceae-Compositae || Labiatae || Lamiaceae	5	0	0.0
+Asteraceae-Compositae || Labiatae || Lamiaceae || Piperaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Lamiaceae || Verbenaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Leguminosae || Leguminosae/Fabaceae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Leguminosae || Moraceae	2	0	0.0
+Asteraceae-Compositae || Labiatae || Malvaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Myrtaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Rutaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Sapindaceae	1	0	0.0
+Asteraceae-Compositae || Labiatae || Sphacelariaceae	1	1	100.0
+Asteraceae-Compositae || Labiateae || Lamiaceae	2	0	0.0
+Asteraceae-Compositae || Lamiaceae	5	0	0.0
+Asteraceae-Compositae || Lamiaceae || Matthioleae || Rhamnaceae || Sapindaceae || Sisymbrieae	1	0	0.0
+Asteraceae-Compositae || Leguminosae	2	0	0.0
+Asteraceae-Compositae || Leguminosae/Fabaceae	8	6	75.0
+Asteraceae-Compositae || Magnoliaceae	1	1	100.0
+Asteraceae-Compositae || Meliaceae	2	0	0.0
+Asteraceae-Compositae || Moraceae	1	0	0.0
+Asteraceae-Compositae || Myrtaceae	1	1	100.0
+Asteraceae-Compositae || Papaveraceae	1	0	0.0
+Asteraceae-Compositae || Phyllanthaceae-Euphorbiaceae	1	0	0.0
+Asteraceae-Compositae || Plantaginaceae	1	0	0.0
+Asteraceae-Compositae || Poaceae	1	0	0.0
+Asteraceae-Compositae || Polygonaceae	2	1	50.0
+Asteraceae-Compositae || Rubiaceae	3	0	0.0
+Asteraceae-Compositae || Rubiaceae || Sapindaceae	1	0	0.0
+Asteraceae-Compositae || Rubiaceae || Zingiberaceae	1	0	0.0
+Asteraceae-Compositae || Rutaceae	3	2	66.66666666666667
+Asteraceae-Compositae || Sapindaceae	3	0	0.0
+Asteraceae-Compositae || Sapindaceae || Zingiberaceae	1	0	0.0
+Asteraceae-Compositae || Sapotaceae	1	0	0.0
+Asteraceae-Compositae || Sisymbrieae	1	0	0.0
+Asteraceae-Compositae || Solanaceae	1	1	100.0
+Asteraceae-Compositae || Thymelaeaceae	1	1	100.0
+Asteraceae-Compositae || Tribulaceae	1	0	0.0
+Asteraceae-Compositae || Verbenaceae	1	0	0.0
+Asteraceae-Compositae || Zingiberaceae	1	0	0.0
+Asteraceae-Compositae || Zygophyllaceae	1	1	100.0
+Avicenniaceae	3	0	0.0
+Axinellidae	4	0	0.0
+Azzolaceae	6	3	50.0
+Bacillaceae	1	0	0.0
+Berberidaceae	2	0	0.0
+Bignoniaceae	82	37	45.1219512195122
+Bignoniaceae || Boraginaceae	1	0	0.0
+Bignoniaceae || Cecropiaceae || Sapotaceae	1	0	0.0
+Bignoniaceae || Clusiaceae || Myrtaceae	1	1	100.0
+Bignoniaceae || Cruciferae-Brassicaceea	1	0	0.0
+Bignoniaceae || Euphorbiaceae	1	0	0.0
+Bignoniaceae || Labiatae	1	0	0.0
+Bignoniaceae || Labiatae || Lamiaceae || Myrtaceae	1	0	0.0
+Bignoniaceae || Loranthaceae || Malvaceae || Sapotaceae || Violaceae	1	0	0.0
+Bignoniaceae || Rhamnaceae	1	0	0.0
+Bignoniaceae || Rubiaceae	1	1	100.0
+Bignoniaceae || Sapindaceae	1	0	0.0
+Bionectriaceae	10	5	50.0
+Bombacaceae	2	0	0.0
+Bombacaceae || Iridaceae || Lepideae || Moraceae	1	0	0.0
+Bombacaceae || Labiatae || Lamiaceae	1	0	0.0
+Bombacaceae || Meliaceae	1	0	0.0
+Boraginaceae	79	43	54.43037974683544
+Boraginaceae || Chenopodiaceae	2	0	0.0
+Boraginaceae || Cruciferae-Brassicaceea	1	1	100.0
+Boraginaceae || Leguminosae/Fabaceae	4	1	25.0
+Boraginaceae || Microcionidae	1	0	0.0
+Boraginaceae || Moraceae	1	0	0.0
+Boraginaceae || Myrtaceae	2	0	0.0
+Boraginaceae || Neuradaceae	1	0	0.0
+Boraginaceae || Ochnaceae	1	0	0.0
+Boraginaceae || Oleaceae	1	1	100.0
+Boraginaceae || Solanaceae	1	1	100.0
+Botryosphaeriaceae	15	6	40.0
+Botryosphaeriaceae || Cypress	2	2	100.0
+Botryosphaeriaceae || Euphorbiaceae	1	0	0.0
+Botryosphaeriaceae || Incertae sedis	1	1	100.0
+Botryosphaeriaceae || Lamiaceae || Solanaceae || Trichocomaceae	1	0	0.0
+Botryosphaeriaceae || Solanaceae	1	0	0.0
+Bovidae	23	9	39.130434782608695
+Bovidae || Burseraceae	1	0	0.0
+Bovidae || Burseraceae || Capparaceae || Labiatae	1	1	100.0
+Bovidae || Capparaceae	1	1	100.0
+Bovidae || Cordycipitaceae || Hypocreaceae	1	0	0.0
+Bovidae || Dioscoraceae	1	0	0.0
+Bovidae || Labiatae	2	1	50.0
+Brassicaceae	43	4	9.30232558139535
+Brassicaceae || Cannabaceae || Capparaceae	1	0	0.0
+Brassicaceae || Capparaceae	1	0	0.0
+Brassicaceae || Capparaceae || Chenopodiaceae || Resedaceae || Rhamnaceae	1	0	0.0
+Brassicaceae || Capparaceae || Cruciferae-Brassicaceea	1	1	100.0
+Brassicaceae || Capparaceae || Matthioleae	1	0	0.0
+Brassicaceae || Caryophyllaceae || Geraniaceae	1	0	0.0
+Brassicaceae || Chenopodiaceae	1	0	0.0
+Brassicaceae || Equisetaceae	1	0	0.0
+Brassicaceae || Equisetaceae || Moraceae	1	0	0.0
+Brassicaceae || Hesperideae	1	0	0.0
+Brassicaceae || Hypocreaceae	1	0	0.0
+Brassicaceae || Leguminosae/Fabaceae	1	0	0.0
+Brassicaceae || Matthioleae	1	0	0.0
+Burseraceae	157	13	8.280254777070065
+Burseraceae || Capparaceae	1	1	100.0
+Burseraceae || Clusiaceae || Euphorbiaceae || Leguminosae/Fabaceae || Meliaceae || Moraceae || Sapotaceae	1	0	0.0
+Burseraceae || Combretaceae || Euphorbiaceae || Irvingiaceae || Myrtaceae || Tamaricaceae	1	0	0.0
+Burseraceae || Cupressaceae	4	1	25.0
+Burseraceae || Cupressaceae || Juglandaceae || Labiatae || Lamiaceae	1	0	0.0
+Burseraceae || Cupressaceae || Poaceae	1	0	0.0
+Burseraceae || Cyperaceae || Euphorbiaceae || Juglandaceae || Labiatae || Poaceae	1	0	0.0
+Burseraceae || Cyperaceae || Euphorbiaceae || Labiatae || Poaceae	1	0	0.0
+Burseraceae || Cyperaceae || Poaceae	1	0	0.0
+Burseraceae || Dioscoraceae || Leguminosae/Fabaceae || Myrsinaceae	1	0	0.0
+Burseraceae || Hyacinthaceae	1	0	0.0
+Burseraceae || Juglandaceae	1	0	0.0
+Burseraceae || Labiatae	5	0	0.0
+Burseraceae || Labiatae || Lamiaceae	1	0	0.0
+Burseraceae || Lamiaceae	1	0	0.0
+Burseraceae || Leguminosae/Fabaceae	1	0	0.0
+Burseraceae || Poaceae	1	0	0.0
+Burseraceae || Sterculiaceae	1	0	0.0
+Burseraceae || Tamaricaceae	1	1	100.0
+Cactaceae	4	3	75.0
+Cactaceae || Canellaceae || Euphorbiaceae || Onagraceae	1	0	0.0
+Caesalpiniaceae	14	2	14.285714285714286
+Caesalpiniaceae || Leguminosae/Fabaceae	1	0	0.0
+Caesalpinioideae	6	0	0.0
+Caesalpinioideae || Cupressaceae || Dioscoraceae || Fagaceae || Leguminosae/Fabaceae || Loganiaceae || Meliaceae || Tiliaceae	1	0	0.0
+Caesalpinioideae || Euphorbiaceae	1	0	0.0
+Caesalpinioideae || Leguminosae/Fabaceae	2	0	0.0
+Caesalpinioideae || Leguminosae/Fabaceae || Scrophulariaceae || Simaroubaceae	1	0	0.0
+Caesalpinioideae || Rosaceae	1	0	0.0
+Callyspongiidae	42	4	9.523809523809524
+Calophyllaceae	2	0	0.0
+Campanulaceae	4	0	0.0
+Campanulaceae || Euphorbiaceae	1	0	0.0
+Campanulaceae || Guttiferae	1	0	0.0
+Campanulaceae || Hypericaceae	2	0	0.0
+Campanulaceae || Hypericaceae || Labiatae	1	0	0.0
+Campanulaceae || Sapotaceae	1	0	0.0
+Campanulaceae || Ulvaceae	1	0	0.0
+Canellaceae	28	22	78.57142857142857
+Canellaceae || Cistaceae || Myrsinaceae || Onagraceae	1	0	0.0
+Canellaceae || Moraceae || Myrsinaceae || Onagraceae || Plumbaginaceae	1	0	0.0
+Cannabaceae	26	3	11.538461538461538
+Cannabaceae || Salicaceae	1	0	0.0
+Capparaceae	102	19	18.627450980392158
+Capparaceae || Chenopodiaceae	1	0	0.0
+Capparaceae || Chenopodiaceae || Resedaceae || Rhamnaceae || Rubiaceae	1	0	0.0
+Capparaceae || Cruciferae-Brassicaceea	1	1	100.0
+Capparaceae || Cruciferae-Brassicaceea || Labiatae || Plantaginaceae	1	0	0.0
+Capparaceae || Cruciferae-Brassicaceea || Rhamnaceae	1	0	0.0
+Capparaceae || Juglandaceae || Labiatae	1	0	0.0
+Capparaceae || Labiatae	2	0	0.0
+Capparaceae || Lamiaceae	1	0	0.0
+Capparaceae || Meliaceae || Primulaceae || Zygophyllaceae	1	0	0.0
+Capparaceae || Mimosaceae || Sapindaceae	1	0	0.0
+Capparaceae || Rhamnaceae	2	0	0.0
+Caprifoliaceae	30	7	23.333333333333332
+Caryophyllaceae	70	13	18.571428571428573
+Caryophyllaceae || Cistaceae || Euphorbiaceae || Fabaceae	1	0	0.0
+Caryophyllaceae || Geraniaceae	1	0	0.0
+Caryophyllaceae || Ranunculaceae	1	1	100.0
+Cecropiaceae	9	6	66.66666666666667
+Cecropiaceae || Lamiaceae	1	0	0.0
+Celastraceae	52	25	48.07692307692308
+Celastraceae || Cistaceae || Leguminosae/Fabaceae || Myrtaceae || Sapotaceae	1	0	0.0
+Celastraceae || Cruciferae-Brassicaceea || Zygophyllaceae	1	0	0.0
+Celastraceae || Rosaceae	1	0	0.0
+Chaetomiaceae	42	21	50.0
+Chaetomiaceae || Leguminosae/Fabaceae	1	0	0.0
+Chaetosphaeriales	2	2	100.0
+Chenopodiaceae	144	20	13.88888888888889
+Chenopodiaceae || Labiatae	1	0	0.0
+Chenopodiaceae || Labiatae || Malvaceae || Podocarpaceae	1	1	100.0
+Chenopodiaceae || Labiatae || Polygonaceae	1	0	0.0
+Chenopodiaceae || Myrsinaceae	1	0	0.0
+Chenopodiaceae || Plumbaginaceae	1	1	100.0
+Chenopodiaceae || Plumbaginaceae || Solanaceae || Zygophyllaceae	1	1	100.0
+Chenopodiaceae || Polygonaceae	4	0	0.0
+Chenopodiaceae || Solanaceae	1	0	0.0
+Chromodorididae	7	0	0.0
+Chrysobalanaceae	5	0	0.0
+Chrysobalanaceae || Ericaceae || Neuradaceae	1	0	0.0
+Cistaceae	26	4	15.384615384615385
+Cistaceae || Euphorbiaceae	1	0	0.0
+Cistaceae || Fagaceae || Lamiaceae || Leguminosae/Fabaceae || Plumbaginaceae || Rosaceae	1	0	0.0
+Cistaceae || Fagaceae || Zygophyllaceae	1	1	100.0
+Cistaceae || Ganodermataceae || Rubiaceae	1	0	0.0
+Cistaceae || Labiatae || Lamiaceae	1	0	0.0
+Cistaceae || Lamiaceae	1	0	0.0
+Cistaceae || Myrtaceae	1	0	0.0
+Cistaceae || Sapindaceae	1	0	0.0
+Cistaceae || Thymelaeaceae	1	1	100.0
+Clavelinidae	3	0	0.0
+Cleomaceae	5	0	0.0
+Cleomaceae || Combretaceae	1	0	0.0
+Clusiaceae	38	7	18.42105263157895
+Clusiaceae || Dracaenaceae	1	0	0.0
+Clusiaceae || Fabaceae || Leguminosae/Fabaceae || Liliaceae || Polygonaceae || Rhamnaceae	1	1	100.0
+Clusiaceae || Gentianaceae	1	0	0.0
+Clusiaceae || Guttiferae	13	2	15.384615384615385
+Clusiaceae || Guttiferae || Hypericaceae	4	2	50.0
+Clusiaceae || Hypericaceae	1	1	100.0
+Clusiaceae || Sapotaceae	1	0	0.0
+Clusiaceae || Trichocomaceae	4	0	0.0
+Clusiaceae-Guttiferae	5	3	60.0
+Combretaceae	66	4	6.0606060606060606
+Combretaceae || Dipterocarpaceae || Euphorbiaceae	1	0	0.0
+Combretaceae || Euphorbiaceae || Fagaceae || Leguminosae || Lythraceae || Myrtaceae || Onagraceae || Rosaceae || Tamaricaceae	1	0	0.0
+Combretaceae || Euphorbiaceae || Myrtaceae || Tamaricaceae	1	0	0.0
+Combretaceae || Moraceae || Vitaceae	1	0	0.0
+Combretaceae || Myrtaceae || Onagraceae	1	0	0.0
+Combretaceae || Tamaricaceae	2	0	0.0
+Combretaceae || Trichocomaceae	1	0	0.0
+Commelinaceae	6	3	50.0
+Commelinaceae || Guttiferae	1	0	0.0
+Convolvulaceae	29	16	55.172413793103445
+Convolvulaceae || Haematococcaceae	2	0	0.0
+Convolvulaceae || Rosaceae	1	1	100.0
+Convolvulaceae || Rutaceae	1	0	0.0
+Corallinaceae	7	0	0.0
+Cordycipitaceae	2	0	0.0
+Cordycipitaceae || Hypocreaceae	6	0	0.0
+Cordycipitaceae || Hypocreaceae || Labiatae	1	0	0.0
+Cruciferae	3	0	0.0
+Cruciferae || Dioscoraceae	1	1	100.0
+Cruciferae-Brassicaceea	36	12	33.333333333333336
+Cruciferae-Brassicaceea || Fabaceae || Labiatae || Leguminosae || Poaceae || Rosaceae	1	0	0.0
+Cruciferae-Brassicaceea || Labiatae	2	0	0.0
+Cruciferae-Brassicaceea || Leguminosae || Moraceae	1	0	0.0
+Cruciferae-Brassicaceea || Linaceae || Moraceae || Rosaceae	1	0	0.0
+Cruciferae-Brassicaceea || Moringaceae	1	1	100.0
+Cruciferae-Brassicaceea || Potamogetonaceae	1	1	100.0
+Cruciferae-Brassicaceea || Rubiaceae || Umbelliferae	1	1	100.0
+Cruciferae-Brassicaceea || Rubiaceae || Verbenaceae	1	0	0.0
+Cucurbitaceae	44	24	54.54545454545455
+Cucurbitaceae || Oleaceae	1	0	0.0
+Cupressaceae	120	11	9.166666666666666
+Cupressaceae || Cyperaceae || Poaceae	1	0	0.0
+Cupressaceae || Dioscoraceae	1	0	0.0
+Cupressaceae || Dioscoraceae || Hypericaceae || Myrsinaceae	1	0	0.0
+Cupressaceae || Dioscoraceae || Labiatae || Sterculiaceae	1	0	0.0
+Cupressaceae || Euphorbiaceae || Juglandaceae || Labiatae	1	0	0.0
+Cupressaceae || Euphorbiaceae || Ochnaceae	1	0	0.0
+Cupressaceae || Euphorbiaceae || Pinaceae	1	0	0.0
+Cupressaceae || Euphorbiaceae || Polygonaceae	1	0	0.0
+Cupressaceae || Fabaceae	1	0	0.0
+Cupressaceae || Labiatae	7	0	0.0
+Cupressaceae || Labiatae || Lamiaceae || Polygonaceae	1	0	0.0
+Cupressaceae || Labiatae || Lamiaceae || Verbenaceae	1	0	0.0
+Cupressaceae || Labiatae || Poaceae	1	0	0.0
+Cupressaceae || Labiatae || Polygonaceae	1	0	0.0
+Cupressaceae || Lamiaceae	1	0	0.0
+Cupressaceae || Lamiaceae || Malvaceae || Polygonaceae	1	0	0.0
+Cupressaceae || Leguminosae/Fabaceae	1	0	0.0
+Cupressaceae || Menispermaceae	1	0	0.0
+Cupressaceae || Pinaceae	3	2	66.66666666666667
+Cupressaceae || Poaceae	2	0	0.0
+Cupressaceae || Polygonaceae	1	0	0.0
+Cupressaceae || Verbenaceae	1	1	100.0
+Cyperaceae	46	7	15.217391304347826
+Cyperaceae || Juglandaceae || Labiatae	1	0	0.0
+Cyperaceae || Labiatae	3	1	33.333333333333336
+Cyperaceae || Labiatae || Lamiaceae || Poaceae	1	0	0.0
+Cyperaceae || Poaceae	4	0	0.0
+Cypress	7	5	71.42857142857143
+Cystoseiraceae	2	1	50.0
+Cystoseiraceae || Sargassaceae	1	0	0.0
+Dematiaceae	8	0	0.0
+Dendrophylliidae	10	5	50.0
+Desmacellidae	8	3	37.5
+Diadematidae	4	0	0.0
+Dichapetalaceae	4	0	0.0
+Dictyonellidae	12	0	0.0
+Dictyotaceae	12	2	16.666666666666668
+Didemnidae	2	2	100.0
+Didymellaceae	7	6	85.71428571428571
+Didymellaceae || Incertae sedis	2	1	50.0
+Dilleniaceae	3	0	0.0
+Dioncophyllaceae	5	0	0.0
+Dioscoraceae	6	1	16.666666666666668
+Dioscoraceae || Euphorbiaceae || Hypericaceae || Ulvaceae	1	0	0.0
+Dioscoraceae || Labiatae	3	0	0.0
+Dioscoreaceae	14	5	35.714285714285715
+Dioscoreaceae || Dipterocarpaceae	6	0	0.0
+Dipsacaceae	4	2	50.0
+Dipterocarpaceae	11	1	9.090909090909092
+Dipterocarpaceae || Irvingiaceae	1	0	0.0
+Dracaenaceae	49	6	12.244897959183673
+Dracaenaceae || Lamiaceae	1	1	100.0
+Dysideidae	2	2	100.0
+Ebenaceae	29	15	51.724137931034484
+Ephedraceae	9	1	11.11111111111111
+Ericaceae	3	0	0.0
+Ericaceae || Euphorbiaceae || Leguminosae/Fabaceae || Meliaceae || Rutaceae	1	0	0.0
+Eucilideae	2	0	0.0
+Eupatorieae	4	0	0.0
+Euphorbiaceae	471	157	33.333333333333336
+Euphorbiaceae || Geraniaceae	1	0	0.0
+Euphorbiaceae || Guttiferae	1	1	100.0
+Euphorbiaceae || Guttiferae || Moringaceae || Onagraceae || Umbelliferae	1	0	0.0
+Euphorbiaceae || Guttiferae || Trichocomaceae	1	1	100.0
+Euphorbiaceae || Hypericaceae || Leguminosae/Fabaceae || Rutaceae	1	0	0.0
+Euphorbiaceae || Irvingiaceae	1	0	0.0
+Euphorbiaceae || Labiatae	1	0	0.0
+Euphorbiaceae || Leguminosae	1	0	0.0
+Euphorbiaceae || Leguminosae/Fabaceae	2	1	50.0
+Euphorbiaceae || Leguminosae/Fabaceae || Myrtaceae || Plumbaginaceae || Rhamnaceae	1	0	0.0
+Euphorbiaceae || Leguminosae/Fabaceae || Myrtaceae || Sapotaceae	1	0	0.0
+Euphorbiaceae || Loranthaceae || Myrtaceae	1	0	0.0
+Euphorbiaceae || Menispermaceae	1	0	0.0
+Euphorbiaceae || Myrsinaceae	1	0	0.0
+Euphorbiaceae || Myrtaceae	3	0	0.0
+Euphorbiaceae || Myrtaceae || Tamaricaceae	1	0	0.0
+Euphorbiaceae || Resedaceae	1	0	0.0
+Euphorbiaceae || Rosaceae	1	0	0.0
+Euphorbiaceae || Rutaceae	1	0	0.0
+Euphorbiaceae || Tamaricaceae	1	0	0.0
+Eurotiomycetidae	6	1	16.666666666666668
+Eurotiomycetidae || Trichocomaceae	4	0	0.0
+Fabaceae	5	0	0.0
+Fagaceae	47	7	14.893617021276595
+Fagaceae || Lamiaceae	1	0	0.0
+Fagaceae || Moraceae	1	0	0.0
+Fagaceae || Myrtaceae	1	0	0.0
+Fagaceae || Rosaceae	1	1	100.0
+Flacourtiaceae	6	0	0.0
+Frankeniaceae	5	0	0.0
+Fumariaceae	10	0	0.0
+Fumariaceae || Hypecoaceae	1	0	0.0
+Fumariaceae || Hypecoaceae || Papaveraceae	1	0	0.0
+Fumariaceae || Papaveraceae	12	0	0.0
+Ganodermataceae	3	3	100.0
+Gelidiaceae	2	0	0.0
+Gentianaceae	14	3	21.428571428571427
+Geraniaceae	4	0	0.0
+Globulariaceae	11	8	72.72727272727273
+Glomerellaceae	2	0	0.0
+Gramineae	5	3	60.0
+Gramineae || Leguminosae/Fabaceae	1	0	0.0
+Gramineae || Moraceae	1	0	0.0
+Gramineae-Poaceae	1	0	0.0
+Gunneraceae	6	4	66.66666666666667
+Gunneraceae || Myrtaceae	1	0	0.0
+Guttiferae	56	14	25.0
+Guttiferae || Hypericaceae	3	0	0.0
+Guttiferae || Hypericaceae || Leguminosae/Fabaceae	1	0	0.0
+Guttiferae || Sapotaceae	1	0	0.0
+Gymnoascaceae	12	12	100.0
+Haematococcaceae	3	2	66.66666666666667
+Hericiaceae	5	2	40.0
+Hexabranchidae	1	1	100.0
+Hyacinthaceae	78	6	7.6923076923076925
+Hyacinthaceae || Trichocomaceae	1	0	0.0
+Hyacinthaceae: Hyacinthoideae	5	0	0.0
+Hyacinthaceae:Urgineoideae	4	2	50.0
+Hydnoraceae	2	0	0.0
+Hydnoraceae || Labiatae || Lamiaceae	1	0	0.0
+Hydrocharitaceae	4	2	50.0
+Hydrocharitaceae || Labiatae	1	0	0.0
+Hymedesmiidae	5	0	0.0
+Hymenochaetaceae	19	12	63.1578947368421
+Hypecoaceae	3	0	0.0
+Hypecoaceae || Papaveraceae	1	0	0.0
+Hypericaceae	100	26	26.0
+Hypericaceae || Rosaceae	1	0	0.0
+Hypericaceae || Rosaceae || Rubiaceae || Tamaricaceae	1	0	0.0
+Hypericaceae || Rosaceae || Sterculiaceae	1	0	0.0
+Hypericaceae || Thymelaeaceae	1	0	0.0
+Hypneaceae	3	2	66.66666666666667
+Hypocreaceae	7	0	0.0
+Hypocreaceae || Incertae sedis	1	0	0.0
+Hypocreaceae || Tiliaceae	1	0	0.0
+Incertae sedis	17	8	47.05882352941177
+Incertae sedis || Trichocomaceae	1	0	0.0
+Iridaceae	52	6	11.538461538461538
+Iridaceae || Leguminosae/Fabaceae	1	0	0.0
+Iridaceae || Ochnaceae	1	0	0.0
+Iridaceae || Trichocomaceae	1	0	0.0
+Irvingiaceae	4	0	0.0
+Irvingiaceae || Sapotaceae	1	0	0.0
+Juglandaceae	11	0	0.0
+Juglandaceae || Lamiaceae	1	0	0.0
+Juglandaceae || Leguminosae/Fabaceae	1	0	0.0
+Juglandaceae || Onagraceae	1	0	0.0
+Juncaceae	11	3	27.272727272727273
+Labiatae	259	79	30.501930501930502
+Labiatae || Labiateae || Lamiaceae	3	0	0.0
+Labiatae || Lamiaceae	21	6	28.571428571428573
+Labiatae || Leguminosae || Moraceae	2	0	0.0
+Labiatae || Mimosaceae	1	0	0.0
+Labiatae || Moraceae	1	0	0.0
+Labiatae || Myrtaceae	1	0	0.0
+Labiatae || Poaceae	1	0	0.0
+Labiatae || Polygonaceae	1	0	0.0
+Labiatae || Rutaceae	1	0	0.0
+Labiatae || Solanaceae	1	0	0.0
+Labiatae || Sterculiaceae	1	0	0.0
+Labiatae || Verbenaceae	2	1	50.0
+Labiateae	2	1	50.0
+Labiateae || Lamiaceae	7	3	42.857142857142854
+Lactobacillaceae	18	0	0.0
+Lamiaceae	237	90	37.9746835443038
+Lamiaceae || Leguminosae	1	0	0.0
+Lamiaceae || Leguminosae/Fabaceae	3	0	0.0
+Lamiaceae || Leguminosae/Fabaceae || Verbenaceae	1	0	0.0
+Lamiaceae || Moraceae || Sapotaceae	1	0	0.0
+Lamiaceae || Myrtaceae	1	1	100.0
+Lamiaceae || Onagraceae	1	0	0.0
+Lamiaceae || Ranunculaceae	1	1	100.0
+Lamiaceae || Scrophulariaceae	1	0	0.0
+Lamiaceae || Tiliaceae	1	0	0.0
+Lamiaceae || Verbenaceae	1	0	0.0
+Lauraceae	25	7	28.0
+Lauraceae || Polygonaceae	1	0	0.0
+Leguminosae	38	5	13.157894736842104
+Leguminosae || Leguminosae/Fabaceae	3	0	0.0
+Leguminosae || Myristicaceae	1	0	0.0
+Leguminosae/Fabaceae	635	124	19.52755905511811
+Leguminosae/Fabaceae || Liliaceae || Polygonaceae || Rhamnaceae	1	1	100.0
+Leguminosae/Fabaceae || Loranthaceae || Mimosaceae || Rubiaceae	1	0	0.0
+Leguminosae/Fabaceae || Loranthaceae || Myricaceae || Myrsinaceae || Rubiaceae || Sapotaceae	1	0	0.0
+Leguminosae/Fabaceae || Meliaceae || Moraceae || Rubiaceae	1	0	0.0
+Leguminosae/Fabaceae || Menispermaceae	1	0	0.0
+Leguminosae/Fabaceae || Mimosaceae	7	1	14.285714285714286
+Leguminosae/Fabaceae || Mimosoideae	1	0	0.0
+Leguminosae/Fabaceae || Moraceae	9	3	33.333333333333336
+Leguminosae/Fabaceae || Myristicaceae	3	0	0.0
+Leguminosae/Fabaceae || Myrsinaceae	1	0	0.0
+Leguminosae/Fabaceae || Ochnaceae	2	0	0.0
+Leguminosae/Fabaceae || Polygonaceae	2	2	100.0
+Leguminosae/Fabaceae || Resedaceae	2	0	0.0
+Leguminosae/Fabaceae || Rubiaceae	4	0	0.0
+Leguminosae/Fabaceae || Rutaceae	2	0	0.0
+Leguminosae/Fabaceae || Sapindaceae	2	0	0.0
+Leguminosae/Fabaceae || Trichocomaceae	2	1	50.0
+Lepideae	1	0	0.0
+Leucettidae	5	0	0.0
+Liliaceae	38	16	42.10526315789474
+Linaceae	2	1	50.0
+Loganiaceae	56	16	28.571428571428573
+Loganiaceae || Sterculiaceae	1	0	0.0
+Loranthaceae	9	1	11.11111111111111
+Loranthaceae || Myrsinaceae	1	0	0.0
+Loranthaceae || Myrsinaceae || Myrtaceae || Primulaceae	1	0	0.0
+Loranthaceae || Violaceae	1	0	0.0
+Lyophyllaceae	2	0	0.0
+Lythraceae	4	0	0.0
+Magnoliaceae	12	8	66.66666666666667
+Magnoliaceae || Rutaceae	1	0	0.0
+Malvaceae	40	8	20.0
+Malvaceae || Rutaceae	2	0	0.0
+Malvaceae || Salicaceae	1	0	0.0
+Malvaceae || Thymelaeaceae	1	1	100.0
+Marchantiaceae	9	5	55.55555555555556
+Marchantiaceae || Solanaceae	6	3	50.0
+Matthioleae	1	0	0.0
+Melastomaceae	6	0	0.0
+Melastomaceae || Myrtaceae	1	0	0.0
+Melastomaceae || Tamaricaceae	1	0	0.0
+Meliaceae	257	121	47.08171206225681
+Meliaceae || Rubiaceae || Simaroubaceae	1	0	0.0
+Meliaceae || Rutaceae	1	1	100.0
+Meliaceae || Verbenaceae	1	0	0.0
+Melianthaceae	6	6	100.0
+Menispermaceae	9	1	11.11111111111111
+Mesembryanthemaceae-Aizoaceae	6	2	33.333333333333336
+Microcionidae	4	0	0.0
+Micrococcaceae	1	0	0.0
+Mimosaceae	62	17	27.419354838709676
+Mimosoideae	4	0	0.0
+Mimosoideae || Sapotaceae	1	0	0.0
+Molluginaceae	5	0	0.0
+Montagnulaceae	9	4	44.44444444444444
+Montagnulaceae || Myrtaceae || Trichocomaceae || Trichosphaeriaceae	1	0	0.0
+Montagnulaceae || Solanaceae || Trichocomaceae	1	0	0.0
+Moraceae	133	13	9.774436090225564
+Moraceae || Rubiaceae	1	0	0.0
+Moraceae || Sapindaceae	1	0	0.0
+Moraceae || Tamaricaceae	1	0	0.0
+Moraceae || Trichocomaceae	1	0	0.0
+Moringaceae	13	4	30.76923076923077
+Moringaceae || Rhamnaceae	1	0	0.0
+Mucoraceae	4	0	0.0
+Myricaceae	5	0	0.0
+Myricaceae || Myrsinaceae	2	0	0.0
+Myristicaceae	15	2	13.333333333333334
+Myristicaceae || Rubiaceae	1	0	0.0
+Myrsinaceae	61	24	39.34426229508197
+Myrsinaceae || Onagraceae	1	0	0.0
+Myrsinaceae || Primulaceae	4	4	100.0
+Myrtaceae	99	13	13.131313131313131
+Myrtaceae || Onagraceae	2	0	0.0
+Myrtaceae || Rosaceae	1	0	0.0
+Myrtaceae || Tamaricaceae	4	0	0.0
+Nectriaceae	19	2	10.526315789473685
+Nectriaceae || Trichocomaceae	1	0	0.0
+Nephtheidae	4	2	50.0
+Neuradaceae	2	0	0.0
+Niphatidae	10	1	10.0
+Niphatidae || Podospongiidae	1	0	0.0
+Nitrariaceae	3	0	0.0
+Nymphaeaceae	4	1	25.0
+Ochnaceae	36	7	19.444444444444443
+Ochnaceae || Onagraceae	3	1	33.333333333333336
+Ochnaceae || Proteaceae	1	1	100.0
+Oleaceae	31	25	80.64516129032258
+Onagraceae	17	3	17.647058823529413
+Onagraceae || Rosaceae	1	0	0.0
+Onagraceae || Tamaricaceae	2	0	0.0
+Onagraceae || Urticaceae	1	0	0.0
+Oscillatoriaceae	8	6	75.0
+Pandanaceae	2	2	100.0
+Papaveraceae	16	0	0.0
+Passifloraceae || Rubiaceae	1	1	100.0
+Pedaliaceae	1	0	0.0
+Phaeosphaeriaceae	11	5	45.45454545454545
+Phaeosphaeriaceae || Pleosporaceae	1	1	100.0
+Phaeosphaeriaceae || Trichocomaceae	1	0	0.0
+Phyllanthaceae-Euphorbiaceae	5	3	60.0
+Pinaceae	37	6	16.216216216216218
+Piperaceae	11	0	0.0
+Pittosporaceae	4	2	50.0
+Plantaginaceae	38	30	78.94736842105263
+Plantaginaceae || Scrophulariaceae	2	1	50.0
+Pleosporaceae	22	10	45.45454545454545
+Pleosporaceae || Pleosporineae	8	1	12.5
+Pleosporineae	10	2	20.0
+Pleosporomycetidae	8	0	0.0
+Plumbaginaceae	4	1	25.0
+Poaceae	26	1	3.8461538461538463
+Podocarpaceae	14	9	64.28571428571429
+Podospongiidae	31	16	51.61290322580645
+Polygalaceae	12	2	16.666666666666668
+Polygonaceae	39	11	28.205128205128204
+Polygonaceae || Ptaeroxylaceae	1	1	100.0
+Polygonaceae || Rhamnaceae	1	0	0.0
+Polygonaceae || Rubiaceae	2	2	100.0
+Polygonaceae || Ximeniaceae	1	0	0.0
+Polyporaceae	5	2	40.0
+Pontideraceae	7	1	14.285714285714286
+Portulacacea	2	0	0.0
+Potamogetonaceae	6	4	66.66666666666667
+Primulaceae	10	6	60.0
+Primulaceae || Rubiaceae || Sapindaceae || Xylariaceae	1	0	0.0
+Proteaceae	2	0	0.0
+Pseudoceratinidae	13	4	30.76923076923077
+Ptaeroxylaceae	25	10	40.0
+Pteridaceae	6	1	16.666666666666668
+Punicaceae	1	0	0.0
+Ranunculaceae	13	3	23.076923076923077
+Resedaceae	16	4	25.0
+Resedaceae || Tribulaceae	1	0	0.0
+Resedaceae || Trichosphaeriaceae	1	0	0.0
+Resedaceae || Zygophyllaceae	1	0	0.0
+Rhamnaceae	61	11	18.0327868852459
+Rhizophoraceae	10	0	0.0
+Rhodomelaceae	4	0	0.0
+Rosaceae	67	9	13.432835820895523
+Rosaceae || Sapindaceae	1	0	0.0
+Rosaceae || Sapotaceae	1	0	0.0
+Rosaceae || Tribulaceae	1	0	0.0
+Rubiaceae	231	135	58.44155844155844
+Rubiaceae || Verbenaceae	1	1	100.0
+Ruscaceae	13	0	0.0
+Russulaceae	1	0	0.0
+Rutaceae	215	31	14.418604651162791
+Rutaceae || Xylariaceae	1	0	0.0
+Salicaceae	11	1	9.090909090909092
+Salvadoraceae	3	0	0.0
+Sapindaceae	43	16	37.2093023255814
+Sapotaceae	87	13	14.942528735632184
+Sargassaceae	12	0	0.0
+Sargassaceae-Fucaceae	27	21	77.77777777777777
+Scrophulariaceae	49	23	46.93877551020408
+Scrophulariaceae || Thymelaeaceae	1	0	0.0
+Scytosiphonaceae	2	0	0.0
+Simaroubaceae	24	8	33.333333333333336
+Sisymbrieae	2	0	0.0
+Solanaceae	147	58	39.45578231292517
+Solanaceae || Trichocomaceae	1	1	100.0
+Solanaceae || Verbenaceae	1	0	0.0
+Sordariaceae	3	0	0.0
+Sphacelariaceae	3	2	66.66666666666667
+Sphaerococcaceae	4	2	50.0
+Spongiidae	3	3	100.0
+Sporocadaceae	1	0	0.0
+Sporormiaceae	9	7	77.77777777777777
+Sterculiaceae	9	0	0.0
+Streptomycetaceae	7	2	28.571428571428573
+Tamaricaceae	112	13	11.607142857142858
+Theonellidae	3	3	100.0
+Thorectidae	28	11	39.285714285714285
+Thymelaeaceae	58	29	50.0
+Tiliaceae	9	2	22.22222222222222
+Tribulaceae	19	7	36.8421052631579
+Tribulaceae || Zygophyllaceae	10	4	40.0
+Trichocomaceae	221	79	35.74660633484163
+Trichosphaeriaceae	15	4	26.666666666666668
+Uberculariaceae	2	1	50.0
+Ulvaceae	4	1	25.0
+Umbelliferae	60	32	53.333333333333336
+Urticaceae	10	0	0.0
+Valsaceae	3	0	0.0
+Verbenaceae	47	35	74.46808510638297
+Violaceae	4	0	0.0
+Vitaceae	11	0	0.0
+Xeniidae	3	2	66.66666666666667
+Ximeniaceae	4	0	0.0
+Xylariaceae	3	0	0.0
+Zingiberaceae	8	5	62.5
+Zygophyllaceae	101	19	18.81188118811881
+unknown	5	1	20.0

@@ -1,0 +1,24 @@
+{
+  "note": "Authoritative provenance record. The quantum stage produced the addition energies; the analysis stage produced every derived table in this deposit. requirements.txt and environment.yml pin the analysis stage, which is the stage a reader reruns.",
+  "quantum_calculations": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "rdkit": "2026.03.6",
+    "xtb": "6.7.1 edcfbbe",
+    "seeds": [
+      42,
+      43,
+      44
+    ]
+  },
+  "analysis_tables": {
+    "python": "3.14.6",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "rdkit": "2026.03.6"
+  },
+  "retrieval_date": "2026-09-16"
+}

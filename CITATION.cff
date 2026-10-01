@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite the accompanying article and this repository."
+title: "Electrophilic Motif Mapping and Glutathione Reactivity Modeling in African Natural Products"
+authors:
+  - family-names: "Olaniru"
+    given-names: "Olaniyi Victor"
+    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: "Ashani"
+    given-names: "Omolola Sarah"
+    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: "Jesulude"
+    given-names: "Peace"
+    affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: "Joshua"
+    given-names: "Jemimah Ayomide"
+    affiliation: "Department of Biological Sciences, Lead City University, Ibadan, Nigeria"
+  - family-names: "Oguntoye"
+    given-names: "Stephen Olubunmi"
+    affiliation: "Department of Chemistry, University of Ilorin, Ilorin, Nigeria"
+  - family-names: "Ajiboye"
+    given-names: "Clement Odunayo"
+    affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
+license: MIT
+keywords:
+  - natural products
+  - cheminformatics
+  - electrophile
+  - Michael acceptor
+  - glutathione reactivity
+  - covalent chemistry
+  - African Natural Products Database
+abstract: >-
+  Atom-resolved mapping of electrophilic motifs across the African Natural Products
+  Database, with local-fragment addition energies calibrated against source-verified
+  glutathione rate constants, per-family evidence grading, an explicit applicability
+  domain, and fragment-fidelity diagnostics on every released site estimate.
+# ORCID iDs, repository-code, version and the archived DOI are added by the authors at deposit.

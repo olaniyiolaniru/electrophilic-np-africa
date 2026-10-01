@@ -1,0 +1,13 @@
+family	n	fragments	descriptor	coefficients	fragment_group_q2	fragment_group_rmse
+enal	13	8	family mean	0	-0.244	0.838
+enal	13	8	structural counts	4	0.139	0.698
+enal	13	8	fingerprint ridge	256	-0.555	0.937
+enal	13	8	addition energy	2	0.159	0.689
+enone	14	9	family mean	0	-0.376	1.563
+enone	14	9	structural counts	4	0.927	0.361
+enone	14	9	fingerprint ridge	256	-0.443	1.601
+enone	14	9	addition energy	2	0.75	0.667
+ester	9	4	family mean	0	-1.327	1.783
+ester	9	4	structural counts	4	0.495	0.83
+ester	9	4	fingerprint ridge	256	-0.737	1.54
+ester	9	4	addition energy	2	0.287	0.987

@@ -1,0 +1,11 @@
+case	smiles	pattern	expected	observed	passed
+cyclic ketone	O=C1C=CCCC1	enone_cyclic	True	True	True
+lactone exclusion	O=C1OC=CC1	enone_cyclic	False	False	True
+conjugated lactone	O=C1C=CCO1	unsat_lactone	True	True	True
+lactam exclusion	O=C1C=CCN1	enone_cyclic	False	False	True
+iodoacetamide	NC(=O)CI	alpha_halo_carbonyl	True	True	True
+fluoroacetamide	NC(=O)CF	alpha_halo_carbonyl	False	False	True
+naphthoquinone	O=C1C=CC(=O)c2ccccc12	para_quinone	True	True	True
+saturated dione	O=C1CCC(=O)CC1	para_quinone	False	False	True
+epoxide	CC1CO1	epoxide	True	True	True
+nitrile	CC#N	nitrile	True	True	True

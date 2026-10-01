@@ -1,0 +1,9 @@
+{
+  "source_url": "https://zenodo.org/api/records/13692394/files/coconut-09-2024.csv.zip/content",
+  "sha256": "1900a3824324dec786c4b41b040cc39c02dcb985987fb8eb238c4857a7c1e49a",
+  "eligible_source_rows": 669202,
+  "sampled": 40000,
+  "valid_reference": 40000,
+  "pairs": 3414,
+  "seed": 42
+}

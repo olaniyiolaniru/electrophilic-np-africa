@@ -1,0 +1,2845 @@
+[
+  {
+    "doi": "10.1021/acs.jmedchem.6b00788",
+    "original": "1. Jackson, P. A.; Widen, J. C.; Harki, D. A.; Brummond, K. M. Covalent Modifiers: A Chemical Perspective on the Reactivity of α,β-Unsaturated Carbonyls with Thiols via Hetero-Michael Addition Reactions. J. Med. Chem. 2017, 60, 839-885. https://doi.org/10.1021/acs.jmedchem.6b00788.",
+    "title": [
+      "Covalent Modifiers: A Chemical Perspective on the Reactivity of α,β-Unsaturated Carbonyls with Thiols via Hetero-Michael Addition Reactions"
+    ],
+    "authors": [
+      {
+        "given": "Paul A.",
+        "family": "Jackson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department\rof Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John C.",
+        "family": "Widen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Medicinal Chemistry, University of Minnesota, Minneapolis, Minnesota 55455, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5950-931X",
+        "authenticated-orcid": true,
+        "given": "Daniel A.",
+        "family": "Harki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Medicinal Chemistry, University of Minnesota, Minneapolis, Minnesota 55455, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3595-6806",
+        "authenticated-orcid": true,
+        "given": "Kay M.",
+        "family": "Brummond",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Medicinal Chemistry"
+    ],
+    "volume": "60",
+    "page": "839-885",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          20
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.jmedchem.6c00826",
+    "original": "2. Mader, L. K.; Borean, J. E.; Keillor, J. W. Don't Lose Your (War)head: Structure-Activity Relationships of Covalent Warheads as Substrates for GST-Catalyzed Glutathione Conjugation. J. Med. Chem. 2026, 69, 11574-11591. https://doi.org/10.1021/acs.jmedchem.6c00826.",
+    "title": [
+      "Don’t Lose Your (War)head: Structure–Activity Relationships of Covalent Warheads as Substrates for GST-Catalyzed Glutathione Conjugation"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9519-2484",
+        "authenticated-orcid": true,
+        "given": "Lavleen K.",
+        "family": "Mader",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Biomolecular Sciences",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          },
+          {
+            "name": "University of Ottawa",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica E.",
+        "family": "Borean",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Biomolecular Sciences",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          },
+          {
+            "name": "University of Ottawa",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8133-6862",
+        "authenticated-orcid": true,
+        "given": "Jeffrey W.",
+        "family": "Keillor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Biomolecular Sciences",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          },
+          {
+            "name": "University of Ottawa",
+            "place": [
+              "Ottawa, Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Medicinal Chemistry"
+    ],
+    "volume": "69",
+    "page": "11574-11591",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1093/nar/gkaf1186",
+    "original": "3. Betow, J. Y.; Qaseem, A.; Bekono, B. D.; Feng, Y.; Moumbock, A. F. A.; Simoben, C. V.; et al. African Natural Products Database (ANPDB): A Resource for Exploring the Therapeutic Potential of Natural Compounds from Africa. Nucleic Acids Res. 2026, 54, D1336-D1344. https://doi.org/10.1093/nar/gkaf1186.",
+    "title": [
+      "African Natural Products Database (ANPDB): A resource for exploring the therapeutic potential of natural compounds from Africa"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0004-5503-8281",
+        "authenticated-orcid": false,
+        "given": "Jude Y",
+        "family": "Betow",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2956-5086",
+        "authenticated-orcid": false,
+        "given": "Ammar",
+        "family": "Qaseem",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Pharmaceutical Sciences, Research Group Pharmaceutical Bioinformatics, Albert-Ludwigs-Universität Freiburg , Hermann-Herder-Strasse 9, 79104 Freiburg ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1077-4176",
+        "authenticated-orcid": false,
+        "given": "Boris D",
+        "family": "Bekono",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "Ecole Normale Supérieure, University of Yaoundé I Department of Physics, , P. O. Box 47, Yaoundé CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-0637-4646",
+        "authenticated-orcid": false,
+        "given": "Yue",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Pharmaceutical Sciences, Research Group Pharmaceutical Bioinformatics, Albert-Ludwigs-Universität Freiburg , Hermann-Herder-Strasse 9, 79104 Freiburg ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6034-2016",
+        "authenticated-orcid": false,
+        "given": "Aurélien F A",
+        "family": "Moumbock",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Pharmaceutical Sciences, Research Group Pharmaceutical Bioinformatics, Albert-Ludwigs-Universität Freiburg , Hermann-Herder-Strasse 9, 79104 Freiburg ,",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Institute of Medicinal and Pharmaceutical Chemistry, Technische Universität Braunschweig , Beethovenstrasse 55, D-38106 Braunschweig ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5958-6961",
+        "authenticated-orcid": false,
+        "given": "Conrad V",
+        "family": "Simoben",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Structural Genomics Consortium, University of Toronto , Toronto, ON M5G 1L7 ,",
+            "place": [
+              "Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4476-5860",
+        "authenticated-orcid": false,
+        "given": "Smith B",
+        "family": "Babiaka",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "Eberhard Karls Universität Tübingen Department of Microbial Bioactive Compounds, , Auf der Morgenstelle 28, D-72076 Tübingen ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-7576-7654",
+        "authenticated-orcid": false,
+        "given": "Solange A",
+        "family": "Tanyi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-8064-6145",
+        "authenticated-orcid": false,
+        "given": "Vanessa A",
+        "family": "Shu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Martin-Luther University of Halle-Wittenberg Department of Pharmaceutical Chemistry, , Wolfgang-Langenbeck Str. 4, Halle (Saale) 06120 ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9465-271X",
+        "authenticated-orcid": false,
+        "given": "Ariane T",
+        "family": "Ndi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2919-6089",
+        "authenticated-orcid": false,
+        "given": "Pascal Amoa",
+        "family": "Onguéné",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Yaoundé I, Institute of Wood Technology, Mbalmayo, University of Yaoundé I Department of Chemistry, , BP 50, Mbalmayo CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5710-6354",
+        "authenticated-orcid": false,
+        "given": "Clovis S",
+        "family": "Metuge",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3400-8874",
+        "authenticated-orcid": false,
+        "given": "Simeon",
+        "family": "Akame",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Health Sciences, University of Buea Department of Clinical Microbiology, , Buea CM00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4148-6372",
+        "authenticated-orcid": false,
+        "given": "Donatus B",
+        "family": "Eni",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8404-7214",
+        "authenticated-orcid": false,
+        "given": "Cyril T",
+        "family": "Namba-Nzanguim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-0615-0335",
+        "authenticated-orcid": false,
+        "given": "Mathieu J M",
+        "family": "Tjegbe",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-0664-7133",
+        "authenticated-orcid": false,
+        "given": "Marianka N L",
+        "family": "Dikande",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-0297-934X",
+        "authenticated-orcid": false,
+        "given": "Patience T",
+        "family": "Akeh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-7905-7519",
+        "authenticated-orcid": false,
+        "suffix": "Jr.",
+        "given": "Sounders",
+        "family": "Balgah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-2883-752X",
+        "authenticated-orcid": false,
+        "given": "Cyprian D",
+        "family": "Meh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1620-5716",
+        "authenticated-orcid": false,
+        "given": "Akachukwu",
+        "family": "Ibezim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Pharmaceutical Sciences, University of Nigeria Department of Pharmaceutical and Medicinal Chemistry, , 410001  Nsukka ,",
+            "place": [
+              "Nigeria"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-3297-0260",
+        "authenticated-orcid": false,
+        "given": "Idris F",
+        "family": "Tabi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-7621-0816",
+        "authenticated-orcid": false,
+        "given": "Yvette I",
+        "family": "Malange",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "Research Unit in Nutrition, Health, Functional Foods and Nutraceuticals, Universidad San Ignacio de Loyola , Av. La Fontana 550, Lima PE-15024 ,",
+            "place": [
+              "Peru"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8011-6585",
+        "authenticated-orcid": false,
+        "given": "Bakoh",
+        "family": "Ndingkokhar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-6961-974X",
+        "authenticated-orcid": false,
+        "given": "Leonel E",
+        "family": "Njume",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3219-9240",
+        "authenticated-orcid": false,
+        "given": "Kiran K",
+        "family": "Telukunta",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tarunavadaanenasaha Muktbharatonnayana Samstha Foundation , 500026  Hyderabad ,",
+            "place": [
+              "India"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7384-1498",
+        "authenticated-orcid": false,
+        "given": "Said",
+        "family": "Amrani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculté des Sciences Biologiques - USTHB Department of Biology, , 16111  Algiers ,",
+            "place": [
+              "Algeria"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2373-1354",
+        "authenticated-orcid": false,
+        "given": "Oyere T",
+        "family": "Ebob",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Science and Technology (SST), Nottingham Trent University Department of Chemistry and Forensics, , NG1 4FQ  Nottingham ,",
+            "place": [
+              "UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5985-9261",
+        "authenticated-orcid": false,
+        "given": "Wolfgang",
+        "family": "Sippl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Martin-Luther University of Halle-Wittenberg Department of Pharmaceutical Chemistry, , Wolfgang-Langenbeck Str. 4, Halle (Saale) 06120 ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3744-189X",
+        "authenticated-orcid": false,
+        "given": "Stefan",
+        "family": "Günther",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Pharmaceutical Sciences, Research Group Pharmaceutical Bioinformatics, Albert-Ludwigs-Universität Freiburg , Hermann-Herder-Strasse 9, 79104 Freiburg ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0795-394X",
+        "authenticated-orcid": false,
+        "given": "Fidele",
+        "family": "Ntie-Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Drug Discovery, University of Buea , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "University of Buea Department of Chemistry, , P.O. Box 63, Buea CM–00237 ,",
+            "place": [
+              "Cameroon"
+            ]
+          },
+          {
+            "name": "Martin-Luther University of Halle-Wittenberg Department of Pharmaceutical Chemistry, , Wolfgang-Langenbeck Str. 4, Halle (Saale) 06120 ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nucleic Acids Research"
+    ],
+    "volume": "54",
+    "page": "D1336-D1344",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          17
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1186/s13321-021-00514-2",
+    "original": "4. Diallo, B. N.; Glenister, M.; Musyoka, T. M.; Lobb, K.; Tastan Bishop, Ö. SANCDB: An Update on South African Natural Compounds and Their Readily Available Analogs. J. Cheminform. 2021, 13, 37. https://doi.org/10.1186/s13321-021-00514-2.",
+    "title": [
+      "SANCDB: an update on South African natural compounds and their readily available analogs"
+    ],
+    "authors": [
+      {
+        "given": "Bakary N’tji",
+        "family": "Diallo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Glenister",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thommas M.",
+        "family": "Musyoka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kevin",
+        "family": "Lobb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6861-7849",
+        "authenticated-orcid": false,
+        "given": "Özlem",
+        "family": "Tastan Bishop",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Cheminformatics"
+    ],
+    "volume": "13",
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          5
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1093/nar/gkae946",
+    "original": "5. Du, H.; Zhang, X.; Wu, Z.; Zhang, O.; Gu, S.; Wang, M.; Zhu, F.; Li, D.; Hou, T.; Pan, P. CovalentInDB 2.0: An Updated Comprehensive Database for Structure-Based and Ligand-Based Covalent Inhibitor Design and Screening. Nucleic Acids Res. 2025, 53, D1322-D1327. https://doi.org/10.1093/nar/gkae946.",
+    "title": [
+      "CovalentInDB 2.0: an updated comprehensive database for structure-based and ligand-based covalent inhibitor design and screening"
+    ],
+    "authors": [
+      {
+        "given": "Hongyan",
+        "family": "Du",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xujun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenxing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Odin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shukai",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mingyang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8069-0053",
+        "authenticated-orcid": false,
+        "given": "Feng",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7227-2580",
+        "authenticated-orcid": false,
+        "given": "Tingjun",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1152-7759",
+        "authenticated-orcid": false,
+        "given": "Peichen",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Pharmaceutical Sciences, Zhejiang University , Hangzhou 310058, Zhejiang ,",
+            "place": [
+              "China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nucleic Acids Research"
+    ],
+    "volume": "53",
+    "page": "D1322-D1327",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          23
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1093/nar/gkae1063",
+    "original": "6. Chandrasekhar, V.; Rajan, K.; Kanakam, S. R. S.; Sharma, N.; Weißenborn, V.; Schaub, J.; Steinbeck, C. COCONUT 2.0: A Comprehensive Overhaul and Curation of the Collection of Open Natural Products Database. Nucleic Acids Res. 2025, 53, D634-D643. https://doi.org/10.1093/nar/gkae1063.",
+    "title": [
+      "COCONUT 2.0: a comprehensive overhaul and curation of the collection of open natural products database"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2564-3243",
+        "authenticated-orcid": false,
+        "given": "Venkata",
+        "family": "Chandrasekhar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1066-7792",
+        "authenticated-orcid": false,
+        "given": "Kohulan",
+        "family": "Rajan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-7934-5876",
+        "authenticated-orcid": false,
+        "given": "Sri Ram Sagar",
+        "family": "Kanakam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-4755-1039",
+        "authenticated-orcid": false,
+        "given": "Nisha",
+        "family": "Sharma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-3565-8932",
+        "authenticated-orcid": false,
+        "given": "Viktor",
+        "family": "Weißenborn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1554-6666",
+        "authenticated-orcid": false,
+        "given": "Jonas",
+        "family": "Schaub",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6966-0814",
+        "authenticated-orcid": false,
+        "given": "Christoph",
+        "family": "Steinbeck",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Inorganic and Analytical Chemistry, Friedrich Schiller University Jena , Lessingstr 8, 07743, Jena ,",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nucleic Acids Research"
+    ],
+    "volume": "53",
+    "page": "D634-D643",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          26
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.jnatprod.4c00530",
+    "original": "7. Avellaneda-Tamayo, J. F.; Agudo-Muñoz, N. A.; Sánchez-Galán, J. E.; López-Pérez, J. L.; Medina-Franco, J. L. Chemoinformatic Characterization of NAPROC-13: A Database for Natural Product 13C NMR Dereplication. J. Nat. Prod. 2024, 87, 2216-2229. https://doi.org/10.1021/acs.jnatprod.4c00530.",
+    "title": [
+      "Chemoinformatic Characterization of NAPROC-13: A Database for Natural Product\n                    <sup>13</sup>\n                    C NMR Dereplication"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-1819-6187",
+        "authenticated-orcid": true,
+        "given": "Juan F.",
+        "family": "Avellaneda-Tamayo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "DIFACQUIM Research Group, Department of Pharmacy, School of Chemistry, Universidad Nacional Autónoma de México, Avenida Universidad 3000, Mexico City 04510, Mexico"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Naicolette A.",
+        "family": "Agudo-Muñoz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Science and Technology Faculty, Universidad Tecnológica de Panamá, Campus Metropolitano Víctor Levi Sasso, Avenida Universidad Tecnológica, Vía Puente Centenario, Panama City 0819-07289, Panama"
+          },
+          {
+            "name": "Grupo de Investigación en Biotecnología, Bioinformática y Biología de Sistemas (GIBBS), Universidad Tecnológica de Panama, Panama City, Panama"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8806-7901",
+        "authenticated-orcid": true,
+        "given": "Javier E.",
+        "family": "Sánchez-Galán",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Facultad de Ingeniería de Sistemas Computacionales, Universidad Tecnológica de Panamá, Campus Metropolitano Víctor Levi Sasso, Avenida Universidad Tecnológica, Vía Puente Centenario, Panama City 0819-07289, Panama"
+          },
+          {
+            "name": "Grupo de Investigación en Biotecnología, Bioinformática y Biología de Sistemas (GIBBS), Universidad Tecnológica de Panama, Panama City, Panama"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3728-7602",
+        "authenticated-orcid": true,
+        "given": "José L.",
+        "family": "López-Pérez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departamento de Ciencias Farmacéuticas, Área de Química Farmacéutica, Facultad de Farmacia, CIETUS, IBSAL, Campus Miguel de Unamuno, University of Salamanca, 37007, Salamanca, Spain"
+          },
+          {
+            "name": "Departamento de Farmacología, Facultad de Medicina, CIPFAR, Universidad de Panamá, Panama City, Panama"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4940-1107",
+        "authenticated-orcid": true,
+        "given": "José L.",
+        "family": "Medina-Franco",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DIFACQUIM Research Group, Department of Pharmacy, School of Chemistry, Universidad Nacional Autónoma de México, Avenida Universidad 3000, Mexico City 04510, Mexico"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Natural Products"
+    ],
+    "volume": "87",
+    "page": "2216-2229",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.chemrestox.5b00017",
+    "original": "8. Hughes, T. B.; Miller, G. P.; Swamidass, S. J. Site of Reactivity Models Predict Molecular Reactivity of Diverse Chemicals with Glutathione. Chem. Res. Toxicol. 2015, 28, 797-809. https://doi.org/10.1021/acs.chemrestox.5b00017.",
+    "title": [
+      "Site of Reactivity Models Predict Molecular Reactivity of Diverse Chemicals with Glutathione"
+    ],
+    "authors": [
+      {
+        "given": "Tyler B.",
+        "family": "Hughes",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Pathology and Immunology, Washington University School of Medicine, Campus Box 8118, 660 S. Euclid Ave., St. Louis, Missouri 63110, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Grover P.",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little Rock, Arkansas 72205, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S. Joshua",
+        "family": "Swamidass",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pathology and Immunology, Washington University School of Medicine, Campus Box 8118, 660 S. Euclid Ave., St. Louis, Missouri 63110, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Chemical Research in Toxicology"
+    ],
+    "volume": "28",
+    "page": "797-809",
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          16
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.chemrestox.6b00099",
+    "original": "9. Ebbrell, D. J.; Madden, J. C.; Cronin, M. T. D.; Schultz, T. W.; Enoch, S. J. Development of a Fragment-Based in Silico Profiler for Michael Addition Thiol Reactivity. Chem. Res. Toxicol. 2016, 29, 1073-1081. https://doi.org/10.1021/acs.chemrestox.6b00099.",
+    "title": [
+      "Development of a Fragment-Based <i>in Silico</i> Profiler for Michael Addition Thiol Reactivity"
+    ],
+    "authors": [
+      {
+        "given": "David J.",
+        "family": "Ebbrell",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School\rof Pharmacy and Bimolecular Sciences, Liverpool John Moores University, Byrom Street, Liverpool L3 3AF, England"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Judith C.",
+        "family": "Madden",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School\rof Pharmacy and Bimolecular Sciences, Liverpool John Moores University, Byrom Street, Liverpool L3 3AF, England"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark T. D.",
+        "family": "Cronin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School\rof Pharmacy and Bimolecular Sciences, Liverpool John Moores University, Byrom Street, Liverpool L3 3AF, England"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Terry W.",
+        "family": "Schultz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Comparative Medicine, College of Veterinary Medicine, The University of Tennessee, Knoxville, Tennessee 37996, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Steven J.",
+        "family": "Enoch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School\rof Pharmacy and Bimolecular Sciences, Liverpool John Moores University, Byrom Street, Liverpool L3 3AF, England"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Chemical Research in Toxicology"
+    ],
+    "volume": "29",
+    "page": "1073-1081",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          6
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.jcim.7b00553",
+    "original": "10. Lonsdale, R.; Burgess, J.; Colclough, N.; Davies, N. L.; Lenz, E. M.; Orton, A. L.; Ward, R. A. Expanding the Armory: Predicting and Tuning Covalent Warhead Reactivity. J. Chem. Inf. Model. 2017, 57, 3124-3137. https://doi.org/10.1021/acs.jcim.7b00553.",
+    "title": [
+      "Expanding the Armory: Predicting and Tuning Covalent Warhead Reactivity"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9160-4659",
+        "authenticated-orcid": true,
+        "given": "Richard",
+        "family": "Lonsdale",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Burgess",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicola",
+        "family": "Colclough",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nichola L.",
+        "family": "Davies",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eva M.",
+        "family": "Lenz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandra L.",
+        "family": "Orton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2310-9477",
+        "authenticated-orcid": true,
+        "given": "Richard A.",
+        "family": "Ward",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and DMPK, Oncology, IMED Biotech\rUnit, AstraZeneca, Cambridge CB4 0WG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Chemical Information and Modeling"
+    ],
+    "volume": "57",
+    "page": "3124-3137",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          21
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1038/nchem.2479",
+    "original": "11. Rodrigues, T.; Reker, D.; Schneider, P.; Schneider, G. Counting on Natural Products for Drug Design. Nat. Chem. 2016, 8, 531-541. https://doi.org/10.1038/nchem.2479.",
+    "title": [
+      "Counting on natural products for drug design"
+    ],
+    "authors": [
+      {
+        "given": "Tiago",
+        "family": "Rodrigues",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Reker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Petra",
+        "family": "Schneider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gisbert",
+        "family": "Schneider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nature Chemistry"
+    ],
+    "volume": "8",
+    "page": "531-541",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          25
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/tx800492x",
+    "original": "12. Böhme, A.; Thaens, D.; Paschke, A.; Schüürmann, G. Kinetic Glutathione Chemoassay to Quantify Thiol Reactivity of Organic Electrophiles: Application to α,β-Unsaturated Ketones, Acrylates, and Propiolates. Chem. Res. Toxicol. 2009, 22, 742-750. https://doi.org/10.1021/tx800492x.",
+    "title": [
+      "Kinetic Glutathione Chemoassay To Quantify Thiol Reactivity of Organic Electrophiles—Application to α,β-Unsaturated Ketones, Acrylates, and Propiolates"
+    ],
+    "authors": [
+      {
+        "given": "Alexander",
+        "family": "Böhme",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Diana",
+        "family": "Thaens",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Albrecht",
+        "family": "Paschke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gerrit",
+        "family": "Schüürmann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Chemical Research in Toxicology"
+    ],
+    "volume": "22",
+    "page": "742-750",
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          25
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/tx100226n",
+    "original": "13. Böhme, A.; Thaens, D.; Schramm, F.; Paschke, A.; Schüürmann, G. Thiol Reactivity and Its Impact on the Ciliate Toxicity of α,β-Unsaturated Aldehydes, Ketones, and Esters. Chem. Res. Toxicol. 2010, 23, 1905-1912. https://doi.org/10.1021/tx100226n.",
+    "title": [
+      "Thiol Reactivity and Its Impact on the Ciliate Toxicity of α,β-Unsaturated Aldehydes, Ketones, and Esters"
+    ],
+    "authors": [
+      {
+        "given": "Alexander",
+        "family": "Böhme",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Diana",
+        "family": "Thaens",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Franziska",
+        "family": "Schramm",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Albrecht",
+        "family": "Paschke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gerrit",
+        "family": "Schüürmann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UFZ Department of Ecological Chemistry, Helmholtz Centre for Environmental Research, Permoserstrasse 15, 04318 Leipzig, Germany, and Institute for Organic Chemistry, Technical University Bergakademie Freiberg, Leipziger Strasse 29, 09596 Freiberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Chemical Research in Toxicology"
+    ],
+    "volume": "23",
+    "page": "1905-1912",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          5
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1039/D0SC06628A",
+    "original": "14. Mayer, R. J.; Allihn, P. W. A.; Hampel, N.; Mayer, P.; Sieber, S. A.; Ofial, A. R. Electrophilic Reactivities of Cyclic Enones and α,β-Unsaturated Lactones. Chem. Sci. 2021, 12, 4850-4865. https://doi.org/10.1039/D0SC06628A.",
+    "title": [
+      "Electrophilic reactivities of cyclic enones and α,β-unsaturated lactones"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9864-7042",
+        "authenticated-orcid": false,
+        "given": "Robert J.",
+        "family": "Mayer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Ludwig-Maximilians-Universität München"
+          },
+          {
+            "name": "81377 München"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6159-4955",
+        "authenticated-orcid": false,
+        "given": "Patrick W. A.",
+        "family": "Allihn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Technische Universität München"
+          },
+          {
+            "name": "85748 Garching"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nathalie",
+        "family": "Hampel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Ludwig-Maximilians-Universität München"
+          },
+          {
+            "name": "81377 München"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Mayer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Ludwig-Maximilians-Universität München"
+          },
+          {
+            "name": "81377 München"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9400-906X",
+        "authenticated-orcid": false,
+        "given": "Stephan A.",
+        "family": "Sieber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Technische Universität München"
+          },
+          {
+            "name": "85748 Garching"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9600-2793",
+        "authenticated-orcid": false,
+        "given": "Armin R.",
+        "family": "Ofial",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department Chemie"
+          },
+          {
+            "name": "Ludwig-Maximilians-Universität München"
+          },
+          {
+            "name": "81377 München"
+          },
+          {
+            "name": "Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Chemical Science"
+    ],
+    "volume": "12",
+    "page": "4850-4865",
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "original": "15. Landrum, G. RDKit: Open-Source Cheminformatics. https://www.rdkit.org (accessed 2026-09-15).",
+    "status": "software URL"
+  },
+  {
+    "doi": "10.1021/ci100050t",
+    "original": "16. Rogers, D.; Hahn, M. Extended-Connectivity Fingerprints. J. Chem. Inf. Model. 2010, 50, 742-754. https://doi.org/10.1021/ci100050t.",
+    "title": [
+      "Extended-Connectivity Fingerprints"
+    ],
+    "authors": [
+      {
+        "given": "David",
+        "family": "Rogers",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "3429 North Mountain View Drive, San Diego, California 92116 and Accelrys, Incorporated, 10188 Telesis Court, Suite 100, San Diego, California 92121"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mathew",
+        "family": "Hahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "3429 North Mountain View Drive, San Diego, California 92116 and Accelrys, Incorporated, 10188 Telesis Court, Suite 100, San Diego, California 92121"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Chemical Information and Modeling"
+    ],
+    "volume": "50",
+    "page": "742-754",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          4,
+          28
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/ja00402a071",
+    "original": "17. Bertz, S. H. The First General Index of Molecular Complexity. J. Am. Chem. Soc. 1981, 103, 3599-3601. https://doi.org/10.1021/ja00402a071.",
+    "title": [
+      "The first general index of molecular complexity"
+    ],
+    "authors": [
+      {
+        "given": "Steven H.",
+        "family": "Bertz",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of the American Chemical Society"
+    ],
+    "volume": "103",
+    "page": "3599-3601",
+    "published": {
+      "date-parts": [
+        [
+          1981,
+          6
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1038/nchem.1243",
+    "original": "18. Bickerton, G. R.; Paolini, G. V.; Besnard, J.; Muresan, S.; Hopkins, A. L. Quantifying the Chemical Beauty of Drugs. Nat. Chem. 2012, 4, 90-98. https://doi.org/10.1038/nchem.1243.",
+    "title": [
+      "Quantifying the chemical beauty of drugs"
+    ],
+    "authors": [
+      {
+        "given": "G. Richard",
+        "family": "Bickerton",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gaia V.",
+        "family": "Paolini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jérémy",
+        "family": "Besnard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sorel",
+        "family": "Muresan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew L.",
+        "family": "Hopkins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nature Chemistry"
+    ],
+    "volume": "4",
+    "page": "90-98",
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          24
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.48550/arXiv.1802.03426",
+    "status": "HTTP Error 404: Not Found",
+    "original": "19. McInnes, L.; Healy, J.; Melville, J. UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. arXiv 2018, arXiv:1802.03426. https://doi.org/10.48550/arXiv.1802.03426."
+  },
+  {
+    "doi": "10.1021/ci9803381",
+    "original": "20. Butina, D. Unsupervised Database Clustering Based on Daylight's Fingerprint and Tanimoto Similarity: A Fast and Automated Way to Cluster Small and Large Data Sets. J. Chem. Inf. Comput. Sci. 1999, 39, 747-750. https://doi.org/10.1021/ci9803381.",
+    "title": [
+      "Unsupervised Data Base Clustering Based on Daylight's Fingerprint and Tanimoto Similarity: A Fast and Automated Way To Cluster Small and Large Data Sets"
+    ],
+    "authors": [
+      {
+        "given": "Darko",
+        "family": "Butina",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Science Development Group - Biomet, Glaxo Wellcome Research and Development, Medicines Research Centre, Gunnels Wood Road, Stevenage, Hertfordshire SG1 2NY, U.K."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Chemical Information and Computer Sciences"
+    ],
+    "volume": "39",
+    "page": "747-750",
+    "published": {
+      "date-parts": [
+        [
+          1999,
+          6,
+          29
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1037/0033-2909.114.3.494",
+    "original": "21. Cliff, N. Dominance Statistics: Ordinal Analyses to Answer Ordinal Questions. Psychol. Bull. 1993, 114, 494-509. https://doi.org/10.1037/0033-2909.114.3.494.",
+    "title": [
+      "Dominance statistics: Ordinal analyses to answer ordinal questions."
+    ],
+    "authors": [
+      {
+        "given": "Norman",
+        "family": "Cliff",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Psychological Bulletin"
+    ],
+    "volume": "114",
+    "page": "494-509",
+    "published": {
+      "date-parts": [
+        [
+          1993,
+          11
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1021/acs.jctc.8b01176",
+    "original": "22. Bannwarth, C.; Ehlert, S.; Grimme, S. GFN2-xTB: An Accurate and Broadly Parametrized Self-Consistent Tight-Binding Quantum Chemical Method with Multipole Electrostatics and Density-Dependent Dispersion Contributions. J. Chem. Theory Comput. 2019, 15, 1652-1671. https://doi.org/10.1021/acs.jctc.8b01176.",
+    "title": [
+      "GFN2-xTB─An Accurate and Broadly Parametrized\nSelf-Consistent Tight-Binding Quantum Chemical Method with Multipole\nElectrostatics and Density-Dependent Dispersion Contributions"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3242-496X",
+        "authenticated-orcid": true,
+        "given": "Christoph",
+        "family": "Bannwarth",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Universität Bonn , , Beringstr. 4 , ,",
+            "place": [
+              "Bonn, Germany, 53115"
+            ]
+          },
+          {
+            "name": "Stanford University , , , ,",
+            "place": [
+              "Stanford, California, United States, 94305"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sebastian",
+        "family": "Ehlert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universität Bonn , , Beringstr. 4 , ,",
+            "place": [
+              "Bonn, Germany, 53115"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5844-4371",
+        "authenticated-orcid": true,
+        "given": "Stefan",
+        "family": "Grimme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universität Bonn , , Beringstr. 4 , ,",
+            "place": [
+              "Bonn, Germany, 53115"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Chemical Theory and Computation"
+    ],
+    "volume": "15",
+    "page": "1652-1671",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          11
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  },
+  {
+    "doi": "10.1002/wcms.1493",
+    "original": "23. Bannwarth, C.; Caldeweyher, E.; Ehlert, S.; Hansen, A.; Pracht, P.; Seibert, J.; Spicher, S.; Grimme, S. Extended Tight-Binding Quantum Chemistry Methods. WIREs Comput. Mol. Sci. 2021, 11, e1493. https://doi.org/10.1002/wcms.1493.",
+    "title": [
+      "Extended\n                    <scp>tight‐binding</scp>\n                    quantum chemistry methods"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3242-496X",
+        "authenticated-orcid": false,
+        "given": "Christoph",
+        "family": "Bannwarth",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and The PULSE Institute Stanford University  Stanford California USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3985-595X",
+        "authenticated-orcid": false,
+        "given": "Eike",
+        "family": "Caldeweyher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7809-771X",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Ehlert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1659-8206",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Hansen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8495-9504",
+        "authenticated-orcid": false,
+        "given": "Philipp",
+        "family": "Pracht",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3163-8627",
+        "authenticated-orcid": false,
+        "given": "Jakob",
+        "family": "Seibert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6541-3680",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Spicher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5844-4371",
+        "authenticated-orcid": false,
+        "given": "Stefan",
+        "family": "Grimme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mulliken Center for Theoretical Chemistry Rheinische Friedrich‐Wilhelms‐Universität Bonn  Bonn Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "WIREs Computational Molecular Science"
+    ],
+    "volume": "11",
+    "page": null,
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          9
+        ]
+      ]
+    },
+    "status": "Crossref metadata retrieved"
+  }
+]

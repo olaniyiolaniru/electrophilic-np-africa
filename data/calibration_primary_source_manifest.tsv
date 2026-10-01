@@ -1,0 +1,37 @@
+calibrant_id	compound	family	CAS	source_doi	source_table	kGSH_L_mol_min	reported_rate_error	log10_kGSH	source_smiles	canonical_smiles	stereochemistry	note
+CAL01	1-penten-3-one	enone	1629-58-9	10.1021/tx800492x	2	1261.0	63.0	3.1007150865730817	C=CC(=O)CC	C=CC(=O)CC	source name does not specify E/Z or no E/Z center	
+CAL02	1-hexen-3-one	enone	1629-60-3	10.1021/tx800492x	2	1173.0	30.0	3.0692980121155293	C=CC(=O)CCC	C=CC(=O)CCC	source name does not specify E/Z or no E/Z center	
+CAL03	1-octen-3-one	enone	4312-99-6	10.1021/tx800492x	2	1074.0	13.0	3.0310042813635367	C=CC(=O)CCCCC	C=CC(=O)CCCCC	source name does not specify E/Z or no E/Z center	
+CAL04	3-penten-2-one	enone	625-33-2	10.1021/tx800492x	2	26.7	0.9	1.4265112613645752	CC=CC(C)=O	CC=CC(C)=O	source name does not specify E/Z or no E/Z center	
+CAL05	2-octen-4-one	enone	4643-27-0	10.1021/tx800492x	2	26.1	0.5	1.416640507338281	CC=CC(=O)CCC	CC=CC(=O)CCCC	source name does not specify E/Z or no E/Z center	
+CAL06	2-cyclopenten-1-one	enone	930-30-3	10.1021/tx800492x	2	25.6	0.1	1.4082399653118496	O=C1CCC=C1	O=C1C=CCC1	source name does not specify E/Z or no E/Z center	
+CAL07	4-hexen-3-one	enone	2497-21-4	10.1021/tx800492x	2	24.2	0.2	1.3838153659804313	CC=CC(=O)CC	CC=CC(=O)CC	source name does not specify E/Z or no E/Z center	
+CAL08	3-hepten-2-one	enone	1119-44-4	10.1021/tx800492x	2	12.5	0.3	1.0969100130080565	CC(=O)C=CCCC	CCCC=CC(C)=O	source name does not specify E/Z or no E/Z center	
+CAL09	3-octen-2-one	enone	1669-44-9	10.1021/tx800492x	2	11.4	0.2	1.0569048513364727	CC(=O)C=CCCCC	CCCCC=CC(C)=O	source name does not specify E/Z or no E/Z center	
+CAL10	3-nonen-2-one	enone	14309-57-0	10.1021/tx800492x	2	10.8	0.2	1.0334237554869496	CC(=O)C=CCCCCC	CCCCCC=CC(C)=O	source name does not specify E/Z or no E/Z center	
+CAL11	3-methyl-3-penten-2-one	enone	565-62-8	10.1021/tx800492x	2	0.779	0.018	-0.10846254232743552	CC=C(C)C(C)=O	CC=C(C)C(C)=O	source name does not specify E/Z or no E/Z center	
+CAL12	4-methyl-3-penten-2-one	enone	141-79-7	10.1021/tx800492x	2	0.208	0.007	-0.6819366650372385	CC(=O)C=C(C)C	CC(=O)C=C(C)C	source name does not specify E/Z or no E/Z center	
+CAL13	2-methyl-2-cyclopenten-1-one	enone	1120-73-6	10.1021/tx800492x	2	0.2	0.001	-0.6989700043360187	CC1=CCCC1=O	CC1=CCCC1=O	source name does not specify E/Z or no E/Z center	
+CAL14	3-methyl-2-cyclopenten-1-one	enone	2758-18-1	10.1021/tx800492x	2	0.074	0.002	-1.1307682802690238	CC1=CC(=O)CC1	CC1=CC(=O)CC1	source name does not specify E/Z or no E/Z center	
+CAL15	methyl acrylate	ester	96-33-3	10.1021/tx800492x	2	11.4	0.3	1.0569048513364727	C=CC(=O)OC	C=CC(=O)OC	source name does not specify E/Z or no E/Z center	
+CAL16	ethyl acrylate	ester	140-88-5	10.1021/tx800492x	2	10.6	0.1	1.0253058652647702	C=CC(=O)OCC	C=CC(=O)OCC	source name does not specify E/Z or no E/Z center	
+CAL17	n-propyl acrylate	ester	925-60-0	10.1021/tx800492x	2	10.2	0.3	1.0086001717619175	C=CC(=O)OCCC	C=CC(=O)OCCC	source name does not specify E/Z or no E/Z center	
+CAL18	n-butyl acrylate	ester	141-32-2	10.1021/tx800492x	2	8.54	0.2	0.931457870689005	C=CC(=O)OCCCC	C=CC(=O)OCCCC	source name does not specify E/Z or no E/Z center	
+CAL19	methyl crotonate	ester	623-43-8	10.1021/tx800492x	2	0.164	0.005	-0.785156151952302	CC=CC(=O)OC	CC=CC(=O)OC	source name does not specify E/Z or no E/Z center	
+CAL20	ethyl crotonate	ester	623-70-1	10.1021/tx800492x	2	0.161	0.002	-0.7931741239681502	CC=CC(=O)OCC	CC=CC(=O)OCC	source name does not specify E/Z or no E/Z center	
+CAL21	methyl methacrylate	ester	80-62-6	10.1021/tx800492x	2	0.072	0.004	-1.1426675035687315	C=C(C)C(=O)OC	C=C(C)C(=O)OC	source name does not specify E/Z or no E/Z center	
+CAL22	ethyl methacrylate	ester	97-63-2	10.1021/tx800492x	2	0.058	0.005	-1.2365720064370627	C=C(C)C(=O)OCC	C=C(C)C(=O)OCC	source name does not specify E/Z or no E/Z center	
+CAL23	methyl tiglate	ester	6622-76-0	10.1021/tx800492x	2	0.007	0.001	-2.154901959985743	CC=C(C)C(=O)OC	C/C=C(\C)C(=O)OC	explicit source-named geometry	
+CAL24	2-methylacrolein	enal	78-85-3	10.1021/tx100226n	1	203.0	6.0	2.307496037913213	C=C(C)C=O	C=C(C)C=O	source name does not specify E/Z or no E/Z center	
+CAL25	2-ethylacrolein	enal	922-63-4	10.1021/tx100226n	1	59.4	0.9	1.7737864449811935	C=C(CC)C=O	C=C(C=O)CC	source name does not specify E/Z or no E/Z center	
+CAL26	trans-2-pentenal	enal	1576-87-0	10.1021/tx100226n	1	28.3	1.7	1.4517864355242902	CCC=CC=O	CC/C=C/C=O	explicit source-named geometry	
+CAL27	trans-2,cis-6-nonadienal	enal	557-48-2	10.1021/tx100226n	1	22.8	2.2	1.3579348470004537	CCC=CCCC=CC=O	CC/C=C\CC/C=C/C=O	explicit source-named geometry	
+CAL28	trans-2-octenal	enal	2548-87-0	10.1021/tx100226n	1	18.0	0.1	1.255272505103306	CCCCCC=CC=O	CCCCC/C=C/C=O	explicit source-named geometry	
+CAL29	4-methyl-2-pentenal	enal	5362-56-1	10.1021/tx100226n	1	10.6	0.5	1.0253058652647702	CC(C)C=CC=O	CC(C)C=CC=O	source name does not specify E/Z or no E/Z center	
+CAL30	trans-2-decenal	enal	3913-81-3	10.1021/tx100226n	1	10.1	0.1	1.0043213737826426	CCCCCCCC=CC=O	CCCCCCC/C=C/C=O	explicit source-named geometry	
+CAL31	trans,trans-2,4-hexadienal	enal	142-83-6	10.1021/tx100226n	1	6.74	0.34	0.8286598965353198	CC=CC=CC=O	C/C=C/C=C/C=O	explicit source-named geometry	
+CAL32	trans,trans-2,4-heptadienal	enal	4313-03-5	10.1021/tx100226n	1	5.65	0.21	0.7520484478194386	CCC=CC=CC=O	CC/C=C/C=C/C=O	explicit source-named geometry	
+CAL33	trans,trans-2,4-nonadienal	enal	5910-87-2	10.1021/tx100226n	1	3.49	0.43	0.5428254269591799	CCCCC=CC=CC=O	CCCC/C=C/C=C/C=O	explicit source-named geometry	
+CAL34	3-methyl-2-butenal	enal	107-86-8	10.1021/tx100226n	1	1.71	0.07	0.23299611039215382	CC(C)=CC=O	CC(C)=CC=O	source name does not specify E/Z or no E/Z center	
+CAL35	trans-2-methyl-2-butenal	enal	497-03-0	10.1021/tx100226n	1	0.474	0.022	-0.324221658325915	CC=C(C)C=O	C/C=C(\C)C=O	explicit source-named geometry	
+CAL36	trans-2-methyl-2-pentenal	enal	623-36-9	10.1021/tx100226n	1	0.35	0.021	-0.4559319556497244	CCC=C(C)C=O	CC/C=C(\C)C=O	explicit source-named geometry	Source log column -0.56 differs from log10(0.350)=-0.455932; use reported rate constant.

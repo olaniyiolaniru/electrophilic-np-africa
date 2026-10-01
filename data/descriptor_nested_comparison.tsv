@@ -1,0 +1,10 @@
+family	n	fragments	model	coefficients	fragment_group_q2	fragment_group_rmse
+enal	13	8	structural counts	4	0.139	0.698
+enal	13	8	addition energy	2	0.159	0.689
+enal	13	8	structural + energy	5	-1.116	1.094
+enone	14	9	structural counts	4	0.927	0.361
+enone	14	9	addition energy	2	0.75	0.667
+enone	14	9	structural + energy	5	0.865	0.489
+ester	9	4	structural counts	4	0.495	0.83
+ester	9	4	addition energy	2	0.287	0.987
+ester	9	4	structural + energy	5	0.607	0.733

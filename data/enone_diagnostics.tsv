@@ -1,0 +1,15 @@
+calibrant_id	compound	dE_kcal	log10_kGSH_obs	log10_kGSH_fit	leverage	studentized_residual	cooks_distance	loo_prediction
+CAL01	1-penten-3-one	-18.089	3.101	2.944	0.236	0.305	0.0143	2.896
+CAL02	1-hexen-3-one	-18.089	3.069	2.944	0.236	0.244	0.0092	2.906
+CAL03	1-octen-3-one	-18.089	3.031	2.944	0.236	0.169	0.0044	2.917
+CAL04	3-penten-2-one	-13.102	1.427	0.791	0.076	1.126	0.0521	0.739
+CAL05	2-octen-4-one	-12.812	1.417	0.667	0.081	1.333	0.0778	0.601
+CAL06	2-cyclopenten-1-one	-15.303	1.408	1.742	0.091	-0.596	0.0178	1.775
+CAL07	4-hexen-3-one	-12.812	1.384	0.667	0.081	1.274	0.0711	0.604
+CAL08	3-hepten-2-one	-14.179	1.097	1.256	0.073	-0.282	0.0031	1.269
+CAL09	3-octen-2-one	-14.179	1.057	1.256	0.073	-0.353	0.0049	1.272
+CAL10	3-nonen-2-one	-14.179	1.033	1.256	0.073	-0.395	0.0061	1.274
+CAL11	3-methyl-3-penten-2-one	-11.813	-0.108	0.235	0.108	-0.62	0.0231	0.277
+CAL12	4-methyl-3-penten-2-one	-8.307	-0.682	-1.278	0.344	1.254	0.4132	-1.591
+CAL13	2-methyl-2-cyclopenten-1-one	-12.597	-0.699	0.574	0.085	-2.267	0.2381	0.692
+CAL14	3-methyl-2-cyclopenten-1-one	-9.887	-1.131	-0.596	0.21	-1.026	0.1401	-0.453

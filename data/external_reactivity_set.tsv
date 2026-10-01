@@ -1,0 +1,6 @@
+compound	family	smiles	pubchem_cid	cas	kGSH_L_mol_min	rate_error	log10_kGSH	source_doi	source_location	confidence
+propargyl acrylate	ester	C=CC(=O)OCC#C	82655	10477-47-1	51.4	2.9	1.71	10.1021/tx100226n	Bohme et al. 2010, rate-constant table (16 alpha,beta-unsaturated esters); primary values read directly from the article PDF	high (primary-source confirmed)
+allyl acrylate	ester	C=CCOC(=O)C=C	13835	999-55-3	19.6	1.1	1.29	10.1021/tx100226n	Bohme et al. 2010, rate-constant table (16 alpha,beta-unsaturated esters); primary values read directly from the article PDF	high (primary-source confirmed)
+tert-butyl acrylate	ester	CC(C)(C)OC(=O)C=C	15458	1663-39-4	2.5	0.09	0.4	10.1021/tx100226n	Bohme et al. 2010, rate-constant table (16 alpha,beta-unsaturated esters); primary values read directly from the article PDF	high (primary-source confirmed)
+methyl trans-2-octenoate	ester	CCCCC/C=C/C(=O)OC	5364532	7367-81-9	0.785	0.03	-0.11	10.1021/tx100226n	Bohme et al. 2010, rate-constant table (16 alpha,beta-unsaturated esters); primary values read directly from the article PDF	high (primary-source confirmed)
+propargyl methacrylate	ester	CC(=C)C(=O)OCC#C	83778	13861-22-8	0.22	0.02	-0.66	10.1021/tx100226n	Bohme et al. 2010, rate-constant table (16 alpha,beta-unsaturated esters); primary values read directly from the article PDF	high (primary-source confirmed)

@@ -1,0 +1,6 @@
+compound	family	smiles	measured_log10_kGSH	dE_kcal	predicted_log10_kGSH	within_energy_range
+propargyl acrylate	ester	C=CC(=O)OCC#C	1.71	-19.447106770208293	0.9093322718599302	True
+allyl acrylate	ester	C=CCOC(=O)C=C	1.29	-19.447106770208293	0.9093322718599302	True
+tert-butyl acrylate	ester	CC(C)(C)OC(=O)C=C	0.4	-19.447106770208293	0.9093322718599302	True
+methyl trans-2-octenoate	ester	CCCCC/C=C/C(=O)OC	-0.11	-15.244595529546652	-0.7497427279730609	True
+propargyl methacrylate	ester	CC(=C)C(=O)OCC#C	-0.66	-15.736774568104638	-0.5554393956196098	True
