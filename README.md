@@ -22,11 +22,14 @@ Each script reads the tables in `data/` and writes its outputs to `out/`.
   site-level predictions, selection pool, and applicability and fragment-fidelity diagnostics.
 - `benchmark_descriptor.py` - compare the addition energy with a family mean, three-feature
   structural substitution counts, and a 256-bit fragment fingerprint on identical
-  fragment-group splits, and measure how finely each descriptor separates the released sites.
+  fragment-group splits; fit the nested structural, energy and combined models on those same
+  splits; and measure how finely each descriptor separates the released sites. Writes
+  `descriptor_baseline_comparison.tsv`, `descriptor_nested_comparison.tsv` and
+  `descriptor_resolution.tsv`.
 - `compare_chemical_space.py` - property-matched comparison with the frozen COCONUT
   reference at four Tanimoto thresholds with paired bootstrap intervals.
-- `reactivity_checks.py` - held-out ester test and the methanethiolate/ethanethiolate
-  surrogate-robustness check.
+- `reactivity_checks.py` - held-out ester test, and the methanethiolate/ethanethiolate
+  surrogate sensitivity expressed on the predicted log scale.
 - `validate_annotations.py` - validate a stratified annotation sample against independent
   PubChem structure records and primary-literature identifiers.
 
@@ -39,13 +42,20 @@ perception can shift the inventory between RDKit versions. Energy calculations u
 available separately from https://github.com/grimme-lab/xtb; set `XTB_EXE` to its executable.
 
 ## Reproduction
-The modeling results reproduce from the deposited energies without xTB:
+The modeling results reproduce from the deposited energies without xTB. `model_and_selection.py`
+asserts its output schema and rewrites the released tables column for column, so a rerun is
+comparable to the deposit field by field, not only in its predictions:
 
     python model_and_selection.py     # calibration, cross-validation, pool (598 sites / 519 structures)
     python annotate_motifs.py         # 3,414 motif-bearing structures; 5,671 matches (asserted)
-    python benchmark_descriptor.py    # descriptor comparison and resolution on fragment-group splits
+    python benchmark_descriptor.py    # descriptor baselines, nested test, resolution counts
     python compare_chemical_space.py  # property-matched COCONUT comparison
-    python reactivity_checks.py       # held-out ester RMSD and thiol-surrogate correlation
+    python reactivity_checks.py       # held-out ester RMSD and thiol-surrogate sensitivity
+
+Each script writes into `out/` under the same file name the corresponding table carries in
+`data/`, so a fresh run can be compared with the deposited table field by field. On the
+versions pinned here all nineteen regenerated tables match in shape, column order and text,
+with numerical agreement at the limit of floating-point arithmetic.
 
 Recomputing the addition energies from structures requires xTB and is driven by
 `compute_fragment_energies.py`. The optimized geometries and per-start xTB calculation

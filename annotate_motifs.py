@@ -6,10 +6,11 @@ Inputs (data/):
     anpdb_annotations.tsv      11,424 standardized structures (parent_smiles, family)
     internal_challenge.tsv     43-record boundary/challenge set
     exclusion_rules.tsv        declarative chemical exclusions applied with the library
-Outputs (out/):
+Outputs (out/), each written under the name it carries in the deposit so that a rerun can be
+compared with the released table field by field:
     motif_matches.tsv, motif_prevalence.tsv, family_prevalence.tsv,
     family_prevalence_normalized.tsv, molecular_descriptors.tsv,
-    property_effects.tsv, boundary_tests.tsv, challenge_result.tsv
+    property_effects.tsv, chemical_boundary_tests.tsv, internal_challenge.tsv
 
 Run:  python annotate_motifs.py
 Requires: numpy, pandas, scipy, rdkit
@@ -81,9 +82,12 @@ def main():
     for name, smi, motif, expected in BOUNDARY:
         obs = motif in {r["motif_id"] for r, h, c in match(Chem.MolFromSmiles(smi), lib, excl)}
         assert obs == expected, name
-    pd.DataFrame([dict(case=n, smiles=s, motif=m, expected=e,
-                       observed=(m in {r["motif_id"] for r, h, c in match(Chem.MolFromSmiles(s), lib, excl)}))
-                 for n, s, m, e in BOUNDARY]).to_csv(OUT / "boundary_tests.tsv", sep="\t", index=False)
+    bt = [dict(case=n, smiles=s, pattern=m, expected=e,
+               observed=(m in {r["motif_id"] for r, h, c in match(Chem.MolFromSmiles(s), lib, excl)}))
+          for n, s, m, e in BOUNDARY]
+    for r in bt:
+        r["passed"] = r["observed"] == r["expected"]
+    pd.DataFrame(bt).to_csv(OUT / "chemical_boundary_tests.tsv", sep="\t", index=False)
 
     ann = pd.read_csv(DATA / "anpdb_annotations.tsv", sep="\t")
     matches, desc, rows_out = [], [], []
@@ -122,9 +126,12 @@ def main():
     norm["pct_electrophilic"] = 100 * norm.n_electrophilic / norm.n_unique
     norm.sort_values("pct_electrophilic", ascending=False).to_csv(OUT / "family_prevalence_normalized.tsv", sep="\t", index=False)
 
+    # the contrasts are computed from the emitted descriptor table, so the two released files
+    # agree at the precision the descriptors are published with
+    dsr = pd.read_csv(OUT / "molecular_descriptors.tsv", sep="\t")
     eff = []
-    for c in ds.columns[2:]:
-        a = ds.loc[ds.is_electrophilic == 1, c]; b = ds.loc[ds.is_electrophilic == 0, c]
+    for c in dsr.columns[2:]:
+        a = dsr.loc[dsr.is_electrophilic == 1, c]; b = dsr.loc[dsr.is_electrophilic == 0, c]
         u = mannwhitneyu(a, b, alternative="two-sided")
         eff.append(dict(descriptor=c, electrophilic_median=a.median(), nonelectrophilic_median=b.median(),
                         p_value=u.pvalue, cliff_delta=2 * u.statistic / (len(a) * len(b)) - 1))
@@ -132,7 +139,7 @@ def main():
 
     ch = pd.read_csv(DATA / "internal_challenge.tsv", sep="\t")
     ch["flagged"] = [int(bool(match(Chem.MolFromSmiles(s), lib, excl))) for s in ch.smiles]
-    ch.to_csv(OUT / "challenge_result.tsv", sep="\t", index=False)
+    ch.to_csv(OUT / "internal_challenge.tsv", sep="\t", index=False)
     tp = int(((ch.is_covalent == 1) & (ch.flagged == 1)).sum()); tn = int(((ch.is_covalent == 0) & (ch.flagged == 0)).sum())
     fp = int(((ch.is_covalent == 0) & (ch.flagged == 1)).sum()); fn = int(((ch.is_covalent == 1) & (ch.flagged == 0)).sum())
 

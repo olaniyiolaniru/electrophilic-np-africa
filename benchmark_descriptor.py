@@ -8,11 +8,16 @@ asked the same question: predict a compound whose local fragment was withheld fr
     fingerprint        256-bit Morgan fingerprint of the local fragment, ridge regression
     addition energy    the dE descriptor used in the article
 
+A nested comparison then asks whether the addition energy carries information beyond the
+structural counts, by fitting the structural counts, the energy, and both together on the
+same splits.
+
 The script also measures how finely each descriptor separates the released selection pool,
 which is the property that governs site-level ranking.
 
 Inputs (data/): calibration_complete.tsv, site_reactivity_estimates.tsv
-Output (out/):  descriptor_baseline_comparison.tsv, descriptor_resolution.tsv
+Output (out/):  descriptor_baseline_comparison.tsv, descriptor_nested_comparison.tsv,
+                descriptor_resolution.tsv
 
 Run:  python benchmark_descriptor.py
 Requires: numpy, pandas, rdkit
@@ -75,27 +80,47 @@ def q2_rmse(y, pred):
 
 def main():
     cal = pd.read_csv(DATA / "calibration_complete.tsv", sep="\t")
-    rows = []
+    rows, nested = [], []
     for family, g in cal.groupby("family"):
         g = g.reset_index(drop=True)
         y = g.log10_kGSH.values; groups = g.fragment_smiles.values; ones = np.ones((len(g), 1))
+        energy = g.dE_kcal.values.reshape(-1, 1)
         feats = np.array([structural_features(r.parent_smiles, r.core_atom_indices) for r in g.itertuples()])
         fp = np.array([list(AllChem.GetMorganFingerprintAsBitVect(Chem.MolFromSmiles(s), 2, nBits=256))
                        for s in g.fragment_smiles], dtype=float)
         mean_pred = np.array([y[groups != groups[i]].mean() for i in range(len(y))])
+        structural = grouped_predictions(np.column_stack([feats, ones]), y, groups)
+        addition = grouped_predictions(np.column_stack([energy, ones]), y, groups)
+        combined = grouped_predictions(np.column_stack([feats, energy, ones]), y, groups)
         models = {
             "family mean": (mean_pred, 0),
-            "structural counts": (grouped_predictions(np.column_stack([feats, ones]), y, groups), 4),
+            "structural counts": (structural, 4),
             "fingerprint ridge": (grouped_predictions(fp, y, groups, ridge=1.0), 256),
-            "addition energy": (grouped_predictions(np.column_stack([g.dE_kcal.values, ones]), y, groups), 2),
+            "addition energy": (addition, 2),
         }
         for name, (pred, ncoef) in models.items():
             q2, rmse = q2_rmse(y, pred)
             rows.append(dict(family=family, n=len(g), fragments=len(set(groups)), descriptor=name,
                              coefficients=ncoef, fragment_group_q2=round(q2, 3), fragment_group_rmse=round(rmse, 3)))
+        # nested test: does the energy add to the structural counts on the same splits?
+        for name, pred, ncoef in [("structural counts", structural, 4), ("addition energy", addition, 2),
+                                  ("structural + energy", combined, 5)]:
+            q2, rmse = q2_rmse(y, pred)
+            nested.append(dict(family=family, n=len(g), fragments=len(set(groups)), model=name,
+                               coefficients=ncoef, fragment_group_q2=round(q2, 3),
+                               fragment_group_rmse=round(rmse, 3), exact_q2=q2))
     comp = pd.DataFrame(rows)
     comp.to_csv(OUT / "descriptor_baseline_comparison.tsv", sep="\t", index=False)
     print(comp.pivot(index="family", columns="descriptor", values="fragment_group_q2").to_string())
+
+    nest = pd.DataFrame(nested)
+    nest.drop(columns="exact_q2").to_csv(OUT / "descriptor_nested_comparison.tsv", sep="\t", index=False)
+    print()
+    print(nest.pivot(index="family", columns="model", values="fragment_group_q2").to_string())
+    exact = nest.pivot(index="family", columns="model", values="exact_q2")   # differenced before rounding
+    for family in exact.index:
+        gain = exact.loc[family, "structural + energy"] - exact.loc[family, "structural counts"]
+        print(f"  {family}: adding the addition energy changes group Q2 by {gain:+.3f}")
 
     # How finely does each descriptor separate the sites it is deployed on?
     est = pd.read_csv(DATA / "site_reactivity_estimates.tsv", sep="\t")

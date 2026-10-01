@@ -110,9 +110,18 @@ def fidelity_flags(row):
     return "; ".join(flags) if flags else "none"
 
 
-FAMILY_EVIDENCE = {"enone": "cross-validated calibration",
-                   "ester": "weak calibration; ranked hypothesis only",
-                   "enal": "no quantitative model; non-quantitative annotation"}
+FAMILY_EVIDENCE = {"enone": "cross-validated calibration; fragment-group Q2 = {q2:.3f}",
+                   "ester": "weak calibration; fragment-group Q2 = {q2:.3f}; ranked hypothesis only",
+                   "enal": "no quantitative model; fragment-group Q2 = {q2:.3f}; non-quantitative annotation"}
+
+# the deposited column order, asserted on write so a rerun matches the released tables
+COLUMNS = ["record_id", "site_id", "family", "model_status", "parent_smiles", "core_atom_indices",
+           "retained_parent_atoms", "mapped_fragment_smiles", "fragment_smiles", "adduct_smiles",
+           "electrophile_job", "adduct_job", "thiolate_job", "status", "dE_kcal", "compound",
+           "pred_log10_kGSH", "mean_ci_low", "mean_ci_high", "prediction_interval_low",
+           "prediction_interval_high", "energy_range", "structural_domain", "selection_scope",
+           "fragment_group_id", "family_model_evidence", "energy_domain_status",
+           "structural_domain_status", "prediction_use_status", "fragment_fidelity_flags"]
 
 
 def use_status(family, erange, domain):
@@ -151,7 +160,7 @@ def main():
         keep = erange == "within" and domain == "no listed structural alert" and r.family != "enal"
         status = use_status(r.family, erange, domain)
         rows.append(dict(record_id=r.record_id, site_id=r.site_id, family=r.family, model_status=status,
-                         family_model_evidence=FAMILY_EVIDENCE[r.family], prediction_use_status=status,
+                         family_model_evidence=FAMILY_EVIDENCE[r.family].format(q2=f.fragment_group_q2), prediction_use_status=status,
                          energy_domain_status="within calibration range" if erange == "within" else "outside calibration range",
                          structural_domain_status=domain, fragment_fidelity_flags=fidelity_flags(r),
                          compound=names.get(r.record_id, ""), parent_smiles=r.parent_smiles,
@@ -167,10 +176,18 @@ def main():
     res = pd.DataFrame(rows)
     groups = {f: i + 1 for i, f in enumerate(sorted(res.fragment_smiles.dropna().unique()))}
     res["fragment_group_id"] = res.fragment_smiles.map(groups)
+    assert sorted(res.columns) == sorted(COLUMNS), "output schema differs from the released tables"
+    res = res[COLUMNS]
     res.to_csv(OUT / "site_reactivity_estimates.tsv", sep="\t", index=False)
     pool = res[res.selection_scope.str.startswith("enone or ester")]
     pool.to_csv(OUT / "selection_pool.tsv", sep="\t", index=False)
-    summ = res.groupby("family").agg(sites=("site_id", "size"), structures=("record_id", "nunique")).reset_index()
+    in_energy = res.energy_range.eq("within")
+    tally = pd.DataFrame(dict(family=res.family, site_id=res.site_id, record_id=res.record_id,
+                              in_energy=in_energy,
+                              in_domain=in_energy & res.structural_domain.eq("no listed structural alert")))
+    summ = tally.groupby("family").agg(sites=("site_id", "size"), structures=("record_id", "nunique"),
+                                       within_energy=("in_energy", "sum"),
+                                       within_energy_no_structure_alert=("in_domain", "sum")).reset_index()
     summ.to_csv(OUT / "site_estimate_summary.tsv", sep="\t", index=False)
     for fam in ("enone", "ester"):
         g = pool[pool.family == fam]
