@@ -9,8 +9,17 @@ structures for thiol-reactivity study. Every released estimate carries its predi
 interval, applicability flags, and fragment-fidelity diagnostics, which together define a
 205-structure enone applicability domain and a 41-structure high-fidelity tier within it.
 
+## Reproducing everything with one command
+
+    python reproduce_all.py
+
+That runs the full workflow in order and then compares every regenerated table with its
+deposited counterpart, reporting the column order, the text fields and the largest numerical
+difference for each. It needs no xTB and no network.
+
 ## Scripts
-Each script reads the tables in `data/` and writes its outputs to `out/`.
+Each script reads the tables in `data/` and writes its outputs to `out/`. They can be run
+individually in any order; `reproduce_all.py` simply runs them all and checks the result.
 
 - `annotate_motifs.py` - reapply the 22-pattern motif library to the standardized
   structures and reproduce the motif inventory, source-family prevalence, property
@@ -58,8 +67,11 @@ versions pinned here all nineteen regenerated tables match in shape, column orde
 with numerical agreement at the limit of floating-point arithmetic.
 
 Recomputing the addition energies from structures requires xTB and is driven by
-`compute_fragment_energies.py`. The optimized geometries and per-start xTB calculation
-records are large and are supplied as a separate archive accompanying the article.
+`compute_fragment_energies.py`. The optimized geometries, program output, optimization
+trajectories and per-start energies for all 1,486 calculated species are deposited in the same
+versioned record as this package, with a manifest and per-file checksums. Each site row names
+the three calculation keys behind its predicted rate constant, so any estimate in the article
+can be followed to the calculations it came from.
 
 ## Data sources
 ANPDB: https://african-compounds.org (SHA-256 147e46ba64deacdda12d0fc4ebe8cb99c27e5527339225e47b79f46ff065c28c). COCONUT September 2024: https://coconut.naturalproducts.net (SHA-256 1900a3824324dec786c4b41b040cc39c02dcb985987fb8eb238c4857a7c1e49a). All derived tables in `data/` are traceable to these sources by identifier and
@@ -69,7 +81,7 @@ accepted reading for presentation, both forms are kept side by side.
 
 ## Citation
 If you use this resource, please cite the accompanying article in the Journal of Natural
-Products and this repository (see `CITATION.cff`).
+Products together with the deposited archive, whose DOI is recorded in `CITATION.cff`.
 
 ## License
 Code is released under the MIT License (`LICENSE`).

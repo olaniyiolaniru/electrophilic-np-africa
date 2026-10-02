@@ -21,6 +21,8 @@ authors:
     given-names: "Clement Odunayo"
     affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
 license: MIT
+doi: 10.5281/zenodo.0000000
+repository-code: "https://github.com/[author-account]/electrophilic-np-africa"
 keywords:
   - natural products
   - cheminformatics
