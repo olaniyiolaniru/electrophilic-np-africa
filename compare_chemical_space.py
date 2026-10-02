@@ -3,7 +3,7 @@ between motif-bearing and matched motif-negative structures in the fraction of
 records below each nearest-neighbor Tanimoto threshold to the frozen COCONUT reference.
 
 Inputs (data/):
-    global_matched_pairs.tsv        3,416 matched positive/control pairs
+    global_matched_pairs.tsv        3,414 matched positive/control pairs
     global_nearest_neighbors.tsv    per-record maximum Tanimoto at 2048 and 4096 bits
 Output (out/):
     global_comparison.tsv           per (bits, threshold) gap with paired 95% interval
