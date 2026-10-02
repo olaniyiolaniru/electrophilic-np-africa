@@ -1,0 +1,41 @@
+sample_order	molecule_id	mol_name	motif_class
+1	Mol_02149	6-bromoaplysinopsin	acrylamide
+2	Mol_07995	crotocorylifuran	acrylate_ester
+3	Mol_16082	preussilide C	acrylic_acid
+4	Mol_12631	damnacanthal	aldehyde
+5	Mol_04980	chlorosphaeropsidone	alpha_halo_carbonyl
+6	Mol_16517	rhuschalcone I	chalcone
+7	Mol_13031	excoecaria toxin	enone_cyclic
+8	Mol_03678	cystodione C	enone_ketone_acyclic
+9	Mol_07035	2',3'-epoxyasteranthine	epoxide
+10	Mol_01157	4-methylthiobutyl isothiocyanate	isothiocyanate
+11	Mol_05122	prunasin	nitrile
+12	Mol_15812	6-methoxylucidin omega-ethyl ether	para_quinone
+13	Mol_15239	N-phenylitaconimide	acrylamide
+14	Mol_04133	aspulvinone H	acrylate_ester
+15	Mol_11660	beilschmiedic acid C	acrylic_acid
+16	Mol_04753	xenibellal	aldehyde
+17	Mol_04981	epichlorosphaeropsidone	alpha_halo_carbonyl
+18	Mol_13460	salivin A	chalcone
+19	Mol_16968	holadienine	enone_cyclic
+20	Mol_01601	cis-ocimenone	enone_ketone_acyclic
+21	Mol_01642	arborescin	epoxide
+22	Mol_01429	butenyl isothiocyanate	isothiocyanate
+23	Mol_13358	cyanoacetyl urea	nitrile
+24	Mol_07158	(10R)-1,4,8,1',8'-pentahydroxy-3,3'-dimethyl-[10,7'-bianthracene]-9,9',10'(10H)-	para_quinone
+25	Mol_12800	heitziamide B	acrylamide
+26	Mol_00054	blephariside B	acrylate_ester
+27	Mol_16751	(E)-lespedezic acid	acrylic_acid
+28	Mol_02571	tellimagrandin I	aldehyde
+29	Mol_16201	aegyptolidine B	alpha_halo_carbonyl
+30	Mol_09960	butein	chalcone
+31	Mol_04029	pentandroside A	enone_cyclic
+32	Mol_03677	cystodione B	enone_ketone_acyclic
+33	Mol_02256	euphohelin C	epoxide
+34	Mol_01418	3-butenyl isothiocyanate	isothiocyanate
+35	Mol_12424	dhurrin	nitrile
+36	Mol_15834	10-methoxy pumiloside	acrylamide
+37	Mol_14640	kaempferol-3-O-{[beta-D-xylopyranosyl(1→3)-alpha-L-rhamnopyranosyl(1→6)][alpha-L	acrylate_ester
+38	Mol_14502	gadipyrone	acrylic_acid
+39	Mol_10408	penduliflorine B	aldehyde
+40	Mol_13383	4′,6,6′-trihydroxy-2′-(4-hydroxyphenyl)-7′-((E)-3-(4-hydroxyphenyl)acryloyl)-2′H	chalcone
