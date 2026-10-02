@@ -15,7 +15,7 @@ interval, applicability flags, and fragment-fidelity diagnostics, which together
 
 That runs the full workflow in order and then compares every regenerated table with its
 deposited counterpart, reporting the column order, the text fields and the largest numerical
-difference for each. It needs no xTB and no network.
+difference for each. It needs no xTB and no network, and it reports the agreement for every table it checks.
 
 ## Scripts
 Each script reads the tables in `data/` and writes its outputs to `out/`. They can be run
@@ -63,7 +63,7 @@ comparable to the deposit field by field, not only in its predictions:
 
 Each script writes into `out/` under the same file name the corresponding table carries in
 `data/`, so a fresh run can be compared with the deposited table field by field. On the
-versions pinned here all nineteen regenerated tables match in shape, column order and text,
+versions pinned here every regenerated analysis table matches in shape, column order and text,
 with numerical agreement at the limit of floating-point arithmetic.
 
 Recomputing the addition energies from structures requires xTB and is driven by
