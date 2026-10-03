@@ -83,5 +83,16 @@ accepted reading for presentation, both forms are kept side by side.
 If you use this resource, please cite the accompanying article in the Journal of Natural
 Products together with the deposited archive, whose DOI is recorded in `CITATION.cff`.
 
-## License
-Code is released under the MIT License (`LICENSE`).
+## Licence and third-party content
+The analysis code in this repository is released under the MIT Licence (`LICENSE`).
+
+The tables in `data/` are not original code. `anpdb_annotations.tsv` and
+`anpdb_record_provenance.tsv` derive from the African Natural Products Database export named
+under Data sources, and `coconut_frozen_reference.tsv` with its matched-pair and
+nearest-neighbour tables derives from the COCONUT export named there. Both are redistributed in
+derived form so that the reported results can be verified, and both remain subject to the terms
+of their originating databases. The kinetic records are transcribed from the two cited primary
+papers and remain subject to the publisher's terms. Each source is identified by URL and SHA-256
+checksum, so the provenance of any row can be established. Anyone reusing the underlying
+collections themselves, rather than checking the results reported here, should obtain them from
+the sources named above under those sources' own terms.
