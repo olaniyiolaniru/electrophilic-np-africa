@@ -5,9 +5,11 @@ authors:
   - family-names: "Olaniru"
     given-names: "Olaniyi Victor"
     affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+    orcid: "https://orcid.org/0009-0008-9853-6335"
   - family-names: "Ashani"
     given-names: "Omolola Sarah"
     affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
+    orcid: "https://orcid.org/0009-0005-7468-4737"
   - family-names: "Jesulude"
     given-names: "Peace"
     affiliation: "Department of Chemical Sciences, Lead City University, Ibadan, Nigeria"
@@ -17,9 +19,11 @@ authors:
   - family-names: "Oguntoye"
     given-names: "Stephen Olubunmi"
     affiliation: "Department of Chemistry, University of Ilorin, Ilorin, Nigeria"
+    orcid: "https://orcid.org/0000-0001-6212-3880"
   - family-names: "Ajiboye"
     given-names: "Clement Odunayo"
     affiliation: "Department of Chemistry, University of Ibadan, Ibadan, Nigeria"
+    orcid: "https://orcid.org/0000-0002-6205-8828"
 license: MIT
 doi: 10.5281/zenodo.RESERVED
 keywords:
