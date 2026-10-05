@@ -1,5 +1,7 @@
 # Electrophilic motifs and glutathione reactivity in African natural products
 
+Archived release: https://doi.org/10.5281/zenodo.23168309 (always the newest version)
+
 Code and data for an atom-resolved map of electrophilic functionality across the African
 Natural Products Database (ANPDB), coupled to a source-calibrated glutathione (GSH)
 reactivity model. A 22-pattern screen identifies 3,414 motif-bearing structures among
@@ -68,8 +70,9 @@ with numerical agreement at the limit of floating-point arithmetic.
 
 Recomputing the addition energies from structures requires xTB and is driven by
 `compute_fragment_energies.py`. The optimized geometries, program output, optimization
-trajectories and per-start energies for all 1,486 calculated species are deposited in the same
-versioned record as this package, with a manifest and per-file checksums. Each site row names
+trajectories and per-start energies for all 1,486 calculated species are deposited alongside this
+package in the archived record at https://doi.org/10.5281/zenodo.23168310, with a manifest
+and per-file checksums. Each site row names
 the three calculation keys behind its predicted rate constant, so any estimate in the article
 can be followed to the calculations it came from.
 
@@ -80,8 +83,10 @@ retrieved, so a few of them contain source typography; where a source string nee
 accepted reading for presentation, both forms are kept side by side.
 
 ## Citation
-If you use this resource, please cite the accompanying article in the Journal of Natural
-Products together with the deposited archive, whose DOI is recorded in `CITATION.cff`.
+Please cite the accompanying article in the Journal of Natural Products together with the
+archived record. Cite https://doi.org/10.5281/zenodo.23168310 for the exact version you used,
+or https://doi.org/10.5281/zenodo.23168309 to refer to the resource across versions.
+`CITATION.cff` carries the machine-readable form.
 
 ## Licence and third-party content
 The analysis code in this repository is released under the MIT Licence (`LICENSE`).
