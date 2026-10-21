@@ -1,0 +1,2 @@
+set	n	distinct_descriptor_values	largest_tied_group	response_spread_within_largest_tie	rmse	rmse_floor_from_ties	mae	q2_f1	q2_f2	q2_f3	ccc	r2	r2_through_origin	rm2	rm2_reverse	rm2_mean	rm2_delta
+independent same-assay esters	5	3	3	1.31	0.541	0.423	0.487	0.781	0.616	0.785	0.792	0.694	0.618	0.503	0.616	0.56	0.113

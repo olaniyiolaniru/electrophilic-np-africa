@@ -1,0 +1,4 @@
+family	n	distinct_fragments	largest_fragment_group	compounds_sharing_a_fragment	fragment_redundancy	loo_q2	fragment_group_q2	optimism	loo_rmse	fragment_group_rmse
+ester	9	4	4	8	0.556	0.843	0.287	0.557	0.462	0.987
+enone	14	9	3	8	0.357	0.78	0.75	0.03	0.625	0.667
+enal	13	8	4	7	0.385	0.178	0.159	0.019	0.682	0.689

@@ -43,6 +43,12 @@ individually in any order; `reproduce_all.py` simply runs them all and checks th
   reference at four Tanimoto thresholds with paired bootstrap intervals.
 - `reactivity_checks.py` - held-out ester test, and the methanethiolate/ethanethiolate
   surrogate sensitivity expressed on the predicted log scale.
+- `validation_metrics.py` - compare leave-one-out with leave-one-fragment-group-out
+  cross-validation and report the difference, compute the external-validation metrics for the
+  independent same-assay test set together with the lowest root mean square error that set
+  allows given its tied descriptor values, and report held-out error by leverage stratum.
+  Writes `crossvalidation_optimism.tsv`, `validation_metrics.tsv` and
+  `applicability_performance.tsv`.
 - `validate_annotations.py` - validate a stratified annotation sample against independent
   PubChem structure records and primary-literature identifiers.
 
@@ -65,6 +71,7 @@ comparable to the deposit field by field, not only in its predictions:
     python y_randomisation.py         # chance-correlation check, 2000 permutations per family
     python compare_chemical_space.py  # property-matched COCONUT comparison
     python reactivity_checks.py       # held-out ester RMSD and thiol-surrogate sensitivity
+    python validation_metrics.py      # cross-validation optimism, external metrics, leverage strata
 
 Each script writes into `out/` under the same file name the corresponding table carries in
 `data/`, so a fresh run can be compared with the deposited table field by field. On the

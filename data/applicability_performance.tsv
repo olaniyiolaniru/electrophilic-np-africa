@@ -1,0 +1,7 @@
+family	stratum	n	median_leverage	mean_absolute_loo_error	max_absolute_loo_error
+enal	leverage at or below the family median	7	0.128	0.644	1.443
+enal	leverage above the family median	6	0.152	0.342	0.534
+enone	leverage at or below the family median	7	0.076	0.614	1.391
+enone	leverage above the family median	7	0.236	0.403	0.909
+ester	leverage at or below the family median	8	0.221	0.398	0.775
+ester	leverage above the family median	1	0.415	0.167	0.167

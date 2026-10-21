@@ -25,6 +25,7 @@ STAGES = [
     ("y_randomisation.py", "chance-correlation check by response permutation"),
     ("compare_chemical_space.py", "property-matched comparison with the frozen reference"),
     ("reactivity_checks.py", "held-out ester test and thiol-surrogate sensitivity"),
+    ("validation_metrics.py", "cross-validation optimism, external metrics, held-out error by leverage"),
     ("validate_annotations.py", "annotation sample against independent structure records"),
 ]
 
