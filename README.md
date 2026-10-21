@@ -31,6 +31,8 @@ individually in any order; `reproduce_all.py` simply runs them all and checks th
   mapped site and compute the three-start GFN2-xTB/ALPB-water addition energy (needs xTB).
 - `model_and_selection.py` - fit the per-family calibrations, cross-validate, and build the
   site-level predictions, selection pool, and applicability and fragment-fidelity diagnostics.
+- `y_randomisation.py` - permute the response within each family and refit, 2000 times, to test
+  the fitted and cross-validated performance of each model against chance correlation.
 - `benchmark_descriptor.py` - compare the addition energy with a family mean, three-feature
   structural substitution counts, and a 256-bit fragment fingerprint on identical
   fragment-group splits; fit the nested structural, energy and combined models on those same
@@ -60,6 +62,7 @@ comparable to the deposit field by field, not only in its predictions:
     python model_and_selection.py     # calibration, cross-validation, pool (598 sites / 519 structures)
     python annotate_motifs.py         # 3,414 motif-bearing structures; 5,671 matches (asserted)
     python benchmark_descriptor.py    # descriptor baselines, nested test, resolution counts
+    python y_randomisation.py         # chance-correlation check, 2000 permutations per family
     python compare_chemical_space.py  # property-matched COCONUT comparison
     python reactivity_checks.py       # held-out ester RMSD and thiol-surrogate sensitivity
 
@@ -83,8 +86,7 @@ retrieved, so a few of them contain source typography; where a source string nee
 accepted reading for presentation, both forms are kept side by side.
 
 ## Citation
-Please cite the accompanying article in the Journal of Natural Products together with the
-archived record. Cite https://doi.org/10.5281/zenodo.23168310 for the exact version you used,
+Please cite the accompanying article together with the archived record. Cite https://doi.org/10.5281/zenodo.23168310 for the exact version you used,
 or https://doi.org/10.5281/zenodo.23168309 to refer to the resource across versions.
 `CITATION.cff` carries the machine-readable form.
 

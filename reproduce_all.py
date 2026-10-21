@@ -22,6 +22,7 @@ STAGES = [
     ("annotate_motifs.py", "motif inventory, source-family prevalence, property contrasts, rule checks"),
     ("model_and_selection.py", "family calibrations, cross-validation, site estimates, selection pool"),
     ("benchmark_descriptor.py", "descriptor baselines, nested test, resolution counts"),
+    ("y_randomisation.py", "chance-correlation check by response permutation"),
     ("compare_chemical_space.py", "property-matched comparison with the frozen reference"),
     ("reactivity_checks.py", "held-out ester test and thiol-surrogate sensitivity"),
     ("validate_annotations.py", "annotation sample against independent structure records"),

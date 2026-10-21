@@ -1,0 +1,4 @@
+family	n	permutations	r2	r2_permuted_mean	r2_permuted_p95	r2_permuted_max	r2_p_value	fragment_group_q2	q2_permuted_mean	q2_permuted_p95	q2_permuted_max	q2_p_value
+enal	13	2000	0.348	0.083	0.292	0.728	0.03	0.159	-0.356	0.064	0.616	0.0215
+enone	14	2000	0.834	0.077	0.283	0.636	0.0	0.75	-0.381	0.048	0.514	0.0
+ester	9	2000	0.891	0.128	0.479	0.987	0.0015	0.287	-1.843	0.156	0.909	0.0195
