@@ -1,0 +1,16 @@
+family	descriptor	n	fragments	r2	fragment_group_q2	fragment_group_rmse	note
+enal	addition energy	13	8	0.348	0.159	0.689	
+enal	LUMO energy	13	8	0.045	-3.737	1.636	
+enal	global electrophilicity	13	8	0.011	-8.666	2.337	
+enal	Fukui f(+) at C-beta	13	8	0.135	-0.665	0.97	
+enal	local electrophilicity at C-beta	13	8	0.175	-0.387	0.885	
+enone	addition energy	14	9	0.834	0.75	0.667	
+enone	LUMO energy	14	9	0.914	0.873	0.475	
+enone	global electrophilicity	14	9	0.918	0.809	0.582	
+enone	Fukui f(+) at C-beta	14	9	0.671	0.502	0.94	
+enone	local electrophilicity at C-beta	14	9	0.571	0.216	1.18	
+ester	addition energy	9	4	0.891	0.287	0.987	
+ester	LUMO energy	9	4	0.947	0.659	0.683	
+ester	global electrophilicity	9	4	0.797	-4.647	2.777	
+ester	Fukui f(+) at C-beta	9	4	0.139	-2.207	2.093	
+ester	local electrophilicity at C-beta	9	4	0.089	-2.419	2.161	

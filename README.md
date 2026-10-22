@@ -49,6 +49,11 @@ individually in any order; `reproduce_all.py` simply runs them all and checks th
   allows given its tied descriptor values, and report held-out error by leverage stratum.
   Writes `crossvalidation_optimism.tsv`, `validation_metrics.tsv` and
   `applicability_performance.tsv`.
+- `electrophilicity_indices.py` - compute four conventional electrophilicity descriptors on
+  the deposited fragment geometries (LUMO energy, global electrophilicity index, condensed
+  Fukui f(+) at C-beta and the local electrophilicity there) and cross-validate each on the
+  same fragment-group splits as the addition energy. Needs xTB and the calculation records, so
+  it is not part of `reproduce_all.py`; its two tables are deposited.
 - `validate_annotations.py` - validate a stratified annotation sample against independent
   PubChem structure records and primary-literature identifiers.
 
