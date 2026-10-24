@@ -58,6 +58,10 @@ individually in any order; `reproduce_all.py` simply runs them all and checks th
   radius 3 and compare the shift in the addition energy between sites that do and do not carry
   a fragment-fidelity flag, which tests whether the flags identify the sites truncation
   actually perturbs. Needs xTB and the calculation records.
+- `released_sites_table.py` - join the released prediction set to the provenance record so
+  that every site carries its compound name, source organism, family and kingdom beside the
+  predicted rate constant. Recomputes nothing; it presents the deposited result in the form a
+  reader uses.
 - `validate_annotations.py` - validate a stratified annotation sample against independent
   PubChem structure records and primary-literature identifiers.
 
