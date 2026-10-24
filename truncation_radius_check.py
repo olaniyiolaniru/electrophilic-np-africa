@@ -227,6 +227,12 @@ def main():
         median_heavy_atoms_r3=("heavy_atoms_r3", "median")).round(3).reset_index()
     summary["stratum"] = np.where(summary.flagged, "carries a fidelity flag",
                                   "fidelity-clean")
+    # rank-based effect size between the strata, carried in the table rather than only printed
+    a = ok.loc[ok.flagged, "abs_ddE"].values
+    b = ok.loc[~ok.flagged, "abs_ddE"].values
+    delta = ((np.sum(a[:, None] > b[None, :]) - np.sum(a[:, None] < b[None, :]))
+             / (len(a) * len(b))) if len(a) and len(b) else np.nan
+    summary["cliffs_delta_flagged_vs_clean"] = round(float(delta), 3)
     summary = summary.drop(columns="flagged")
     summary.to_csv(OUT / "truncation_radius_summary.tsv", sep="\t", index=False)
     print()

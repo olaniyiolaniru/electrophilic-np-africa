@@ -1,3 +1,3 @@
-sites	median_abs_shift	mean_abs_shift	p90_abs_shift	max_abs_shift	median_heavy_atoms_r2	median_heavy_atoms_r3	stratum
-20	1.085	1.505	3.668	4.929	9.0	11.0	fidelity-clean
-20	2.938	4.139	9.124	11.967	10.0	14.0	carries a fidelity flag
+sites	median_abs_shift	mean_abs_shift	p90_abs_shift	max_abs_shift	median_heavy_atoms_r2	median_heavy_atoms_r3	stratum	cliffs_delta_flagged_vs_clean
+20	1.085	1.505	3.668	4.929	9.0	11.0	fidelity-clean	0.637
+20	2.938	4.139	9.124	11.967	10.0	14.0	carries a fidelity flag	0.637
