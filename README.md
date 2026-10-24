@@ -54,6 +54,10 @@ individually in any order; `reproduce_all.py` simply runs them all and checks th
   Fukui f(+) at C-beta and the local electrophilicity there) and cross-validate each on the
   same fragment-group splits as the addition energy. Needs xTB and the calculation records, so
   it is not part of `reproduce_all.py`; its two tables are deposited.
+- `truncation_radius_check.py` - rebuild a stratified sample of released enone sites at
+  radius 3 and compare the shift in the addition energy between sites that do and do not carry
+  a fragment-fidelity flag, which tests whether the flags identify the sites truncation
+  actually perturbs. Needs xTB and the calculation records.
 - `validate_annotations.py` - validate a stratified annotation sample against independent
   PubChem structure records and primary-literature identifiers.
 

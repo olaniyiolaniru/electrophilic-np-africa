@@ -1,0 +1,41 @@
+site_id	record_id	flagged	fragment_fidelity_flags	status	fragment_smiles_r3	heavy_atoms_r2	heavy_atoms_r3	dE_r2	dE_r3	ddE
+Mol_11914:atom20	Mol_11914	False	none	ok	CC(C)=CC(=O)CC(C)C	8	10	-9.019817338646698	-8.7158	0.304
+Mol_06108:atom7	Mol_06108	False	none	ok	C/C=C/C(=O)/C(C)=C/CCC	9	11	-12.516749108229233	-11.5994	0.9173
+Mol_18577:atom1	Mol_18577	False	none	ok	CC[C@H]1C(=O)C=C(C)[C@H]1CO	9	11	-10.233348039772938	-11.8831	-1.6498
+Mol_09670:atom2	Mol_09670	False	none	ok	C=C/C(C)=C/C(=O)C=C(C)C	9	11	-9.86157280758841	-4.9328	4.9288
+Mol_03382:atom0	Mol_03382	False	none	ok	C=C(CCC)C(=O)CCC	8	10	-16.669796768220532	-15.937	0.7328
+Mol_18579:atom1	Mol_18579	False	none	ok	CC[C@H]1C(=O)C=C(C)[C@H]1CO	9	11	-10.233348039772938	-11.8831	-1.6498
+Mol_17028:atom18	Mol_17028	False	none	ok	CC(C)=CC(=O)CC(C)C	8	10	-9.019817338646698	-8.7158	0.304
+Mol_04301:atom1	Mol_04301	False	none	ok	C=C(C)CC(=O)C=C(C)C	8	10	-9.019817338646698	-10.489	-1.4692
+Mol_03686:atom18	Mol_03686	False	none	ok	C=C(C)CC(=O)/C=C(/C)CCC	9	12	-8.893008995869387	-9.5678	-0.6748
+Mol_04758:atom1	Mol_04758	False	none	ok	CC(C)=CC(=O)CC(C)C	8	10	-9.019817338646698	-8.7158	0.304
+Mol_03683:atom28	Mol_03683	False	none	ok	CCC(C)C(=O)/C=C/C(C)(C)O	11	12	-15.342229819876737	-19.0105	-3.6683
+Mol_16432:atom7	Mol_16432	False	none	ok	O=C(/C=C/CCc1ccccc1)CCc1ccccc1	8	20	-14.625344530221332	-14.6709	-0.0456
+Mol_03684:atom18	Mol_03684	False	none	ok	C=C(C)CC(=O)/C=C(/C)CCC	9	12	-8.893008995869387	-9.5678	-0.6748
+Mol_03676:atom29	Mol_03676	False	none	ok	CCC(C)C(=O)/C=C/C(C)(C)O	11	12	-15.342229819876737	-19.0105	-3.6683
+Mol_03043:atom15	Mol_03043	False	none	ok	C/C=C(C)/C=C/C(=O)C(C)CC	10	12	-11.392440685344488	-9.8228	1.5697
+Mol_11923:atom1	Mol_11923	False	none	ok	CC(C)=CC(=O)CC(C)C	8	10	-9.019817338646698	-8.7158	0.304
+Mol_06106:atom16	Mol_06106	False	none	ok	C=C(C)CC(=O)C=C(C)C	8	10	-9.019817338646698	-10.489	-1.4692
+Mol_03687:atom18	Mol_03687	False	none	ok	C=C(C)CC(=O)/C=C(\C)CCC	9	12	-9.109098088222668	-10.3611	-1.252
+Mol_07389:atom1	Mol_07389	False	none	ok	C/C=C/C(=O)CCC	7	8	-12.811674665726844	-13.6626	-0.8509
+Mol_03677:atom29	Mol_03677	False	none	ok	CCC(C)C(=O)/C=C/C(C)(C)O	11	12	-15.342229819876737	-19.0105	-3.6683
+Mol_02108:atom0	Mol_02108	True	ring severed by truncation	ok	C=C(C[C@@H](C)O)C(=O)CCC	8	11	-16.669796768220532	-18.027	-1.3572
+Mol_05953:atom7	Mol_05953	True	ring severed by truncation	ok	COCC1=CC(=O)C(=C(C)C)[C@H]1[C@H](C)O	10	15	-17.030560847109836	-7.907	9.1236
+Mol_08014:atom43	Mol_08014	True	ring severed by truncation	ok	CC[C@H]1C(=O)C(C)=C[C@H]1C(C)(C)O	9	13	-13.649692892024738	-10.5502	3.0995
+Mol_04203:atom14	Mol_04203	True	ring severed by truncation	ok	CC1=CC(=O)C(=C(C)C)[C@@H]1[C@@H](C)O	9	13	-12.487808981910534	-9.5213	2.9665
+Mol_05933:atom24	Mol_05933	True	ring severed by truncation	ok	CC1=CC(=O)C2=C(C)CCC[C@H](O)C12	11	14	-8.480589140664401	-0.1453	8.3353
+Mol_00944:atom4	Mol_00944	True	ring severed by truncation	ok	C=C[C@]1(C)C=C2C(=O)C[C@@H](C)C(C)(C)[C@@]2(O)CC1	14	18	-17.069636650573102	-5.103	11.9666
+Mol_07975:atom33	Mol_07975	True	alpha-prime heteroatom; ring severed by truncation	ok	CC1=C[C@@H](C(C)(C)O)[C@](O)([C@@H](C)O)C1=O	10	15	-16.705520264705136	-19.6145	-2.909
+Mol_05734:atom6	Mol_05734	True	ring severed by truncation	ok	CO[C@]12CCCCC(CO)=C1C(=O)C=C2C	13	16	-14.946655963601415	-13.1732	1.7735
+Mol_03982:atom28	Mol_03982	True	alpha-prime heteroatom; ring severed by truncation	ok	CC1=C[C@@H](C(C)(C)O)[C@](O)([C@@H](C)O)C1=O	10	15	-16.705520264705136	-19.6145	-2.909
+Mol_12536:atom10	Mol_12536	True	ring severed by truncation	ok	CC1=COC(O)[C@@H]2C(CO)=CC(=O)[C@H]12	10	14	-13.364122930768216	-17.8181	-4.454
+Mol_02504:atom33	Mol_02504	True	alpha-prime heteroatom; ring severed by truncation	ok	CC[C@]1(O)C(=O)C(C)=C[C@H]1C(C)(C)O	10	14	-16.705520264705136	-14.811	1.8945
+Mol_04208:atom15	Mol_04208	True	ring severed by truncation	ok	CC1=CC(=O)C(=C(C)C)[C@@H]1[C@@H](C)O	9	13	-12.487808981910534	-9.5213	2.9665
+Mol_02110:atom0	Mol_02110	True	ring severed by truncation	ok	C=C(C[C@@H](C)O)C(=O)CCC	8	11	-16.669796768220532	-18.027	-1.3572
+Mol_05884:atom7	Mol_05884	True	ring severed by truncation	ok	COCC1=CC(=O)C(=C(C)C)[C@H]1[C@H](C)O	10	15	-17.030560847109836	-7.907	9.1236
+Mol_01523:atom0	Mol_01523	True	ring severed by truncation	ok	C=C(CCC)C(=O)CCC	8	10	-16.669796768220532	-15.937	0.7328
+Mol_06058:atom9	Mol_06058	True	ring severed by truncation	ok	CC1=CC(=O)C2=C(C)C[C@H](O)C[C@H](O)[C@@]12O	12	16	-8.53459706041725	-1.1315	7.4031
+Mol_14989:atom0	Mol_14989	True	ring severed by truncation	ok	C=C(C(C)=O)[C@@H]1CCc2ccccc2C1(C)C	8	17	-15.724752025117017	-13.5275	2.1972
+Mol_06057:atom1	Mol_06057	True	ring severed by truncation	ok	CC1=CC(=O)C(=C(C)C)[C@@]1(O)[C@H](C)O	10	14	-14.62828379287676	-10.644	3.9842
+Mol_02499:atom21	Mol_02499	True	alpha-prime heteroatom; ring severed by truncation	ok	CC[C@]1(O)C(=O)C(C)=CC1C(C)(C)O	10	14	-16.502009180472367	-14.3266	2.1754
+Mol_06817:atom10	Mol_06817	True	ring severed by truncation	ok	CC=C(/C=C/C(C)=O)C(C)C	8	11	-9.310014905108078	-11.3534	-2.0434

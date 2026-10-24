@@ -76,6 +76,32 @@ def rm2(obs, prd):
     return r2, r02, m, mp, (m + mp) / 2, abs(m - mp)
 
 
+def cluster_bootstrap(x, y, groups, draws=2000, seed=42):
+    """Percentile intervals for the fit statistics, resampling whole fragment groups.
+
+    Compounds sharing a local fragment are not independent observations, so the resampling
+    unit is the fragment group rather than the compound. Draws that leave fewer than three
+    distinct descriptor values cannot support a fit and are not counted.
+    """
+    rng = np.random.default_rng(seed)
+    names = np.array(sorted(set(groups)))
+    idx = {g: np.flatnonzero(groups == g) for g in names}
+    r2s, q2s = [], []
+    for _ in range(draws):
+        take = np.concatenate([idx[g] for g in rng.choice(names, len(names), replace=True)])
+        xb, yb, gb = x[take], y[take], groups[take]
+        if len(np.unique(np.round(xb, 6))) < 3:
+            continue
+        r2s.append(linregress(xb, yb).rvalue ** 2)
+        q2s.append(q2(yb, group_predictions(xb, yb, gb)))
+    lo_r2, hi_r2 = np.percentile(r2s, [2.5, 97.5])
+    lo_q2, hi_q2 = np.percentile(q2s, [2.5, 97.5])
+    return dict(usable_draws=len(r2s), r2_ci_low=round(float(lo_r2), 3),
+                r2_ci_high=round(float(hi_r2), 3),
+                fragment_group_q2_ci_low=round(float(lo_q2), 3),
+                fragment_group_q2_ci_high=round(float(hi_q2), 3))
+
+
 def main():
     cal = pd.read_csv(DATA / "calibration_complete.tsv", sep="\t")
 
@@ -151,6 +177,22 @@ def main():
                              max_absolute_loo_error=round(float(err[mask].max()), 3)))
     adp = pd.DataFrame(rows)
     adp.to_csv(OUT / "applicability_performance.tsv", sep="\t", index=False)
+
+    # --- 4. interval estimates for the fit statistics ---------------------------------
+    rows = []
+    for fam, g in cal.groupby("family"):
+        g = g.reset_index(drop=True)
+        x, y, grp = g.dE_kcal.values, g.log10_kGSH.values, g.fragment_smiles.values
+        fit = linregress(x, y)
+        rows.append(dict(family=fam, n=len(g), fragments=int(pd.Series(grp).nunique()),
+                         r2=round(fit.rvalue ** 2, 3),
+                         fragment_group_q2=round(q2(y, group_predictions(x, y, grp)), 3),
+                         **cluster_bootstrap(x, y, grp)))
+    ints = pd.DataFrame(rows)
+    ints.to_csv(OUT / "calibration_intervals.tsv", sep="\t", index=False)
+    print()
+    print("Cluster-bootstrap intervals over fragment groups")
+    print(ints.to_string(index=False))
     print()
     print("Held-out error by leverage stratum")
     print(adp.to_string(index=False))

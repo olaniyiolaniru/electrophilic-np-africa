@@ -1,0 +1,4 @@
+family	n	fragments	r2	fragment_group_q2	usable_draws	r2_ci_low	r2_ci_high	fragment_group_q2_ci_low	fragment_group_q2_ci_high
+enal	13	8	0.348	0.159	1998	0.075	0.829	-9.467	0.609
+enone	14	9	0.834	0.75	2000	0.323	0.97	-2.292	0.929
+ester	9	4	0.891	0.287	1319	0.197	0.976	-11.672	0.319
